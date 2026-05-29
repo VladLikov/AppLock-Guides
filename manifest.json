@@ -1,0 +1,62 @@
+[
+  {
+    "id": "create-groups",
+    "localizations": {
+      "en": {
+        "title": "Create groups",
+        "subtitle": "Organize apps, categories, and websites into one lockable group.",
+        "file": "guides/en/create-groups.md"
+      },
+      "ru": {
+        "title": "Create groups",
+        "subtitle": "Organize apps, categories, and websites into one lockable group.",
+        "file": "guides/en/create-groups.md"
+      }
+    }
+  },
+  {
+    "id": "block-apps",
+    "localizations": {
+      "en": {
+        "title": "Block apps",
+        "subtitle": "Turn a group on when you want its selected apps blocked.",
+        "file": "guides/en/block-apps.md"
+      },
+      "ru": {
+        "title": "Block apps",
+        "subtitle": "Turn a group on when you want its selected apps blocked.",
+        "file": "guides/en/block-apps.md"
+      }
+    }
+  },
+  {
+    "id": "schedules",
+    "localizations": {
+      "en": {
+        "title": "Create schedules",
+        "subtitle": "Lock apps automatically by time and day.",
+        "file": "guides/en/schedules.md"
+      },
+      "ru": {
+        "title": "Create schedules",
+        "subtitle": "Lock apps automatically by time and day.",
+        "file": "guides/en/schedules.md"
+      }
+    }
+  },
+  {
+    "id": "edit-groups",
+    "localizations": {
+      "en": {
+        "title": "Rename groups and change icons",
+        "subtitle": "Keep groups easy to recognize.",
+        "file": "guides/en/edit-groups.md"
+      },
+      "ru": {
+        "title": "Rename groups and change icons",
+        "subtitle": "Keep groups easy to recognize.",
+        "file": "guides/en/edit-groups.md"
+      }
+    }
+  }
+]
