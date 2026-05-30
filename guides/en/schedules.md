@@ -2,7 +2,7 @@
 
 Schedules lock a group automatically during the time windows you choose.
 
-![Manage menu with schedule action](assets/lock-menu.png)
+![Set Schedule action](assets/crops/set-schedule-action.png)
 
 1. Open the group you want to schedule.
 2. Tap **MANAGE**.
@@ -12,7 +12,7 @@ Schedules lock a group automatically during the time windows you choose.
 6. Select the days when the schedule should run.
 7. Tap **Done**.
 
-![Schedule screen](assets/schedule.png)
+![Schedule options](assets/crops/schedule-options.png)
 
 Use **All Day** when the group should stay locked for the full selected day.
 

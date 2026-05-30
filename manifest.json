@@ -8,9 +8,54 @@
         "file": "guides/en/create-groups.md"
       },
       "ru": {
-        "title": "Create groups",
-        "subtitle": "Organize apps, categories, and websites into one lockable group.",
-        "file": "guides/en/create-groups.md"
+        "title": "Создать группы",
+        "subtitle": "Объединяйте приложения, категории и сайты в одну блокируемую группу.",
+        "file": "guides/ru/create-groups.md"
+      },
+      "es": {
+        "title": "Crear grupos",
+        "subtitle": "Organiza apps, categorías y sitios web en un grupo bloqueable.",
+        "file": "guides/es/create-groups.md"
+      },
+      "pt-BR": {
+        "title": "Criar grupos",
+        "subtitle": "Organize apps, categorias e sites em um grupo bloqueável.",
+        "file": "guides/pt-BR/create-groups.md"
+      },
+      "fr": {
+        "title": "Créer des groupes",
+        "subtitle": "Regroupez apps, catégories et sites web dans un groupe verrouillable.",
+        "file": "guides/fr/create-groups.md"
+      },
+      "de": {
+        "title": "Gruppen erstellen",
+        "subtitle": "Fasse Apps, Kategorien und Websites in einer sperrbaren Gruppe zusammen.",
+        "file": "guides/de/create-groups.md"
+      },
+      "zh-Hans": {
+        "title": "创建分组",
+        "subtitle": "把应用、类别和网站整理到一个可锁定的分组中。",
+        "file": "guides/zh-Hans/create-groups.md"
+      },
+      "ja": {
+        "title": "グループを作成",
+        "subtitle": "アプリ、カテゴリ、Webサイトをロック可能なグループにまとめます。",
+        "file": "guides/ja/create-groups.md"
+      },
+      "ko": {
+        "title": "그룹 만들기",
+        "subtitle": "앱, 카테고리, 웹사이트를 하나의 잠금 가능한 그룹으로 정리합니다.",
+        "file": "guides/ko/create-groups.md"
+      },
+      "hi": {
+        "title": "समूह बनाएं",
+        "subtitle": "ऐप्स, श्रेणियों और वेबसाइटों को एक लॉक होने वाले समूह में रखें।",
+        "file": "guides/hi/create-groups.md"
+      },
+      "ar": {
+        "title": "إنشاء مجموعات",
+        "subtitle": "نظّم التطبيقات والفئات والمواقع في مجموعة واحدة قابلة للقفل.",
+        "file": "guides/ar/create-groups.md"
       }
     }
   },
@@ -23,9 +68,54 @@
         "file": "guides/en/block-apps.md"
       },
       "ru": {
-        "title": "Block apps",
-        "subtitle": "Turn a group on when you want its selected apps blocked.",
-        "file": "guides/en/block-apps.md"
+        "title": "Блокировать приложения",
+        "subtitle": "Включайте группу, когда нужно заблокировать выбранные приложения.",
+        "file": "guides/ru/block-apps.md"
+      },
+      "es": {
+        "title": "Bloquear apps",
+        "subtitle": "Activa un grupo cuando quieras bloquear sus apps seleccionadas.",
+        "file": "guides/es/block-apps.md"
+      },
+      "pt-BR": {
+        "title": "Bloquear apps",
+        "subtitle": "Ative um grupo quando quiser bloquear os apps selecionados nele.",
+        "file": "guides/pt-BR/block-apps.md"
+      },
+      "fr": {
+        "title": "Bloquer des apps",
+        "subtitle": "Activez un groupe quand vous voulez bloquer ses apps sélectionnées.",
+        "file": "guides/fr/block-apps.md"
+      },
+      "de": {
+        "title": "Apps blockieren",
+        "subtitle": "Aktiviere eine Gruppe, wenn ihre ausgewählten Apps blockiert werden sollen.",
+        "file": "guides/de/block-apps.md"
+      },
+      "zh-Hans": {
+        "title": "阻止应用",
+        "subtitle": "需要阻止所选应用时，打开对应分组即可。",
+        "file": "guides/zh-Hans/block-apps.md"
+      },
+      "ja": {
+        "title": "アプリをブロック",
+        "subtitle": "選択したアプリをブロックしたいときにグループをオンにします。",
+        "file": "guides/ja/block-apps.md"
+      },
+      "ko": {
+        "title": "앱 차단",
+        "subtitle": "선택한 앱을 차단하려면 그룹을 켭니다.",
+        "file": "guides/ko/block-apps.md"
+      },
+      "hi": {
+        "title": "ऐप्स ब्लॉक करें",
+        "subtitle": "जब चुने हुए ऐप्स ब्लॉक करने हों, तो समूह चालू करें।",
+        "file": "guides/hi/block-apps.md"
+      },
+      "ar": {
+        "title": "حظر التطبيقات",
+        "subtitle": "فعّل مجموعة عندما تريد حظر التطبيقات المحددة فيها.",
+        "file": "guides/ar/block-apps.md"
       }
     }
   },
@@ -38,9 +128,54 @@
         "file": "guides/en/schedules.md"
       },
       "ru": {
-        "title": "Create schedules",
-        "subtitle": "Lock apps automatically by time and day.",
-        "file": "guides/en/schedules.md"
+        "title": "Создать расписания",
+        "subtitle": "Блокируйте приложения автоматически по времени и дням.",
+        "file": "guides/ru/schedules.md"
+      },
+      "es": {
+        "title": "Crear horarios",
+        "subtitle": "Bloquea apps automáticamente por hora y día.",
+        "file": "guides/es/schedules.md"
+      },
+      "pt-BR": {
+        "title": "Criar agendas",
+        "subtitle": "Bloqueie apps automaticamente por horário e dia.",
+        "file": "guides/pt-BR/schedules.md"
+      },
+      "fr": {
+        "title": "Créer des horaires",
+        "subtitle": "Bloquez les apps automatiquement selon l’heure et le jour.",
+        "file": "guides/fr/schedules.md"
+      },
+      "de": {
+        "title": "Zeitpläne erstellen",
+        "subtitle": "Blockiere Apps automatisch nach Uhrzeit und Tag.",
+        "file": "guides/de/schedules.md"
+      },
+      "zh-Hans": {
+        "title": "创建时间表",
+        "subtitle": "按时间和日期自动阻止应用。",
+        "file": "guides/zh-Hans/schedules.md"
+      },
+      "ja": {
+        "title": "スケジュールを作成",
+        "subtitle": "時間と曜日に合わせてアプリを自動的にブロックします。",
+        "file": "guides/ja/schedules.md"
+      },
+      "ko": {
+        "title": "일정 만들기",
+        "subtitle": "시간과 요일에 따라 앱을 자동으로 차단합니다.",
+        "file": "guides/ko/schedules.md"
+      },
+      "hi": {
+        "title": "शेड्यूल बनाएं",
+        "subtitle": "समय और दिन के आधार पर ऐप्स अपने आप ब्लॉक करें।",
+        "file": "guides/hi/schedules.md"
+      },
+      "ar": {
+        "title": "إنشاء الجداول",
+        "subtitle": "اقفل التطبيقات تلقائيًا حسب الوقت واليوم.",
+        "file": "guides/ar/schedules.md"
       }
     }
   },
@@ -53,9 +188,54 @@
         "file": "guides/en/edit-groups.md"
       },
       "ru": {
-        "title": "Rename groups and change icons",
-        "subtitle": "Keep groups easy to recognize.",
-        "file": "guides/en/edit-groups.md"
+        "title": "Переименовать группы и сменить иконки",
+        "subtitle": "Сделайте группы понятнее на Home.",
+        "file": "guides/ru/edit-groups.md"
+      },
+      "es": {
+        "title": "Renombrar grupos y cambiar iconos",
+        "subtitle": "Haz que tus grupos sean fáciles de reconocer.",
+        "file": "guides/es/edit-groups.md"
+      },
+      "pt-BR": {
+        "title": "Renomear grupos e alterar ícones",
+        "subtitle": "Deixe os grupos fáceis de reconhecer.",
+        "file": "guides/pt-BR/edit-groups.md"
+      },
+      "fr": {
+        "title": "Renommer les groupes et changer les icônes",
+        "subtitle": "Gardez vos groupes faciles à reconnaître.",
+        "file": "guides/fr/edit-groups.md"
+      },
+      "de": {
+        "title": "Gruppen umbenennen und Symbole ändern",
+        "subtitle": "Halte Gruppen leicht erkennbar.",
+        "file": "guides/de/edit-groups.md"
+      },
+      "zh-Hans": {
+        "title": "重命名分组并更改图标",
+        "subtitle": "让分组更容易识别。",
+        "file": "guides/zh-Hans/edit-groups.md"
+      },
+      "ja": {
+        "title": "グループ名とアイコンを変更",
+        "subtitle": "グループを見分けやすくします。",
+        "file": "guides/ja/edit-groups.md"
+      },
+      "ko": {
+        "title": "그룹 이름 및 아이콘 변경",
+        "subtitle": "그룹을 쉽게 알아볼 수 있게 유지합니다.",
+        "file": "guides/ko/edit-groups.md"
+      },
+      "hi": {
+        "title": "समूह का नाम और आइकन बदलें",
+        "subtitle": "समूहों को आसानी से पहचानने योग्य रखें।",
+        "file": "guides/hi/edit-groups.md"
+      },
+      "ar": {
+        "title": "إعادة تسمية المجموعات وتغيير الأيقونات",
+        "subtitle": "اجعل المجموعات سهلة التعرّف.",
+        "file": "guides/ar/edit-groups.md"
       }
     }
   }
