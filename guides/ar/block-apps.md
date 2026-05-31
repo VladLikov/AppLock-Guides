@@ -2,14 +2,14 @@
 
 بعد إنشاء مجموعة، يمكنك قفل كل عناصرها من Home أو من شاشة تفاصيل المجموعة.
 
-![صف المجموعة في Home](assets/crops/group-row.png)
+![صف المجموعة في Home](assets/crops/ar/group-row.png)
 
 1. افتح المجموعة التي تريد قفلها.
 2. اضغط **MANAGE** في شريط التنقل.
 3. اضغط **Lock All**.
 4. يطبّق App Lock القفل فورًا على التطبيقات والفئات والمواقع المحددة.
 
-![إجراء Lock All](assets/crops/lock-all-action.png)
+![إجراء Lock All](assets/crops/ar/lock-all-action.png)
 
 يمكنك أيضًا قفل عنصر واحد داخل المجموعة:
 
@@ -17,6 +17,6 @@
 2. اضغط **MANAGE** بجانب التطبيق أو الفئة أو الموقع.
 3. اختر إجراء القفل لذلك العنصر.
 
-![قائمة عنصر واحد](assets/crops/item-lock-action.png)
+![قائمة عنصر واحد](assets/crops/ar/item-lock-action.png)
 
 لإلغاء القفل لاحقًا، افتح **MANAGE** مرة أخرى واختر إجراء إلغاء القفل.

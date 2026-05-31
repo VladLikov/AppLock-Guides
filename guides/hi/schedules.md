@@ -2,7 +2,7 @@
 
 शेड्यूल चुने गए समय में समूह को अपने आप लॉक करते हैं।
 
-![Set Schedule कार्रवाई](assets/crops/set-schedule-action.png)
+![Set Schedule कार्रवाई](assets/crops/hi/set-schedule-action.png)
 
 1. जिस समूह के लिए शेड्यूल बनाना है उसे खोलें।
 2. **MANAGE** पर टैप करें।
@@ -12,7 +12,7 @@
 6. वे दिन चुनें जब शेड्यूल चलना चाहिए।
 7. **Done** पर टैप करें।
 
-![शेड्यूल विकल्प](assets/crops/schedule-options.png)
+![शेड्यूल विकल्प](assets/crops/hi/schedule-options.png)
 
 अगर समूह पूरे चुने हुए दिन लॉक रहना चाहिए, तो **All Day** उपयोग करें।
 

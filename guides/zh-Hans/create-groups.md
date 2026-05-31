@@ -2,7 +2,7 @@
 
 分组可以把应用、类别和网站放在一起。你可以手动锁定分组，也可以按时间表自动锁定。
 
-![Create Group 按钮](assets/crops/create-group-button.png)
+![Create Group 按钮](assets/crops/zh-Hans/create-group-button.png)
 
 1. 打开 App Lock。
 2. 在 Home 顶部点按 **Create Group**。
@@ -10,7 +10,7 @@
 4. 选择要加入的应用、类别或网站。
 5. 点按蓝色勾号保存分组。
 
-![应用和类别选择器](assets/crops/apps-picker-selection.png)
+![应用和类别选择器](assets/crops/zh-Hans/apps-picker-selection.png)
 
 提示：
 

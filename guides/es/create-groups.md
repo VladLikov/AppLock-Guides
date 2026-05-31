@@ -2,7 +2,7 @@
 
 Los grupos mantienen juntas apps, categorías y sitios web. Puedes bloquear un grupo manualmente o con un horario.
 
-![Botón Create Group](assets/crops/create-group-button.png)
+![Botón Create Group](assets/crops/es/create-group-button.png)
 
 1. Abre App Lock.
 2. Toca **Create Group** en la parte superior de Home.
@@ -10,7 +10,7 @@ Los grupos mantienen juntas apps, categorías y sitios web. Puedes bloquear un g
 4. Selecciona las apps, categorías o sitios web que quieres incluir.
 5. Toca la marca azul para guardar el grupo.
 
-![Selector de apps y categorías](assets/crops/apps-picker-selection.png)
+![Selector de apps y categorías](assets/crops/es/apps-picker-selection.png)
 
 Consejos:
 

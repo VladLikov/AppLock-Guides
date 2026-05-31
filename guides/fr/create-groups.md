@@ -2,7 +2,7 @@
 
 Les groupes gardent ensemble apps, catégories et sites web. Un groupe peut être verrouillé manuellement ou avec un horaire.
 
-![Bouton Create Group](assets/crops/create-group-button.png)
+![Bouton Create Group](assets/crops/fr/create-group-button.png)
 
 1. Ouvrez App Lock.
 2. Touchez **Create Group** en haut de Home.
@@ -10,7 +10,7 @@ Les groupes gardent ensemble apps, catégories et sites web. Un groupe peut êtr
 4. Sélectionnez les apps, catégories ou sites web à inclure.
 5. Touchez la coche bleue pour enregistrer le groupe.
 
-![Sélecteur d’apps et de catégories](assets/crops/apps-picker-selection.png)
+![Sélecteur d’apps et de catégories](assets/crops/fr/apps-picker-selection.png)
 
 Conseils:
 

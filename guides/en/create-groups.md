@@ -2,7 +2,7 @@
 
 Use groups to keep apps, categories, and websites together. A group can be locked manually or by schedule.
 
-![Create Group button](assets/crops/create-group-button.png)
+![Create Group button](assets/crops/en/create-group-button.png)
 
 1. Open App Lock.
 2. Tap **Create Group** at the top of Home.
@@ -10,7 +10,7 @@ Use groups to keep apps, categories, and websites together. A group can be locke
 4. Select the apps, categories, or websites you want to include.
 5. Tap the blue checkmark to save the group.
 
-![Apps and categories picker](assets/crops/apps-picker-selection.png)
+![Apps and categories picker](assets/crops/en/apps-picker-selection.png)
 
 Tips:
 

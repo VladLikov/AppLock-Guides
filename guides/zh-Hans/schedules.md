@@ -2,7 +2,7 @@
 
 时间表会在你选择的时间段内自动锁定分组。
 
-![Set Schedule 操作](assets/crops/set-schedule-action.png)
+![Set Schedule 操作](assets/crops/zh-Hans/set-schedule-action.png)
 
 1. 打开要设置时间表的分组。
 2. 点按 **MANAGE**。
@@ -12,7 +12,7 @@
 6. 选择时间表运行的日期。
 7. 点按 **Done**。
 
-![时间表选项](assets/crops/schedule-options.png)
+![时间表选项](assets/crops/zh-Hans/schedule-options.png)
 
 如果分组需要在选定日期全天锁定，请使用 **All Day**。
 

@@ -2,7 +2,7 @@
 
 スケジュールを使うと、選んだ時間帯にグループを自動でロックできます。
 
-![Set Scheduleの操作](assets/crops/set-schedule-action.png)
+![Set Scheduleの操作](assets/crops/ja/set-schedule-action.png)
 
 1. スケジュールを設定したいグループを開きます。
 2. **MANAGE** をタップします。
@@ -12,7 +12,7 @@
 6. スケジュールを実行する曜日を選びます。
 7. **Done** をタップします。
 
-![スケジュール設定](assets/crops/schedule-options.png)
+![スケジュール設定](assets/crops/ja/schedule-options.png)
 
 選択した日を終日ロックしたい場合は **All Day** を使います。
 

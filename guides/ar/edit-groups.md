@@ -2,14 +2,14 @@
 
 غيّر اسم المجموعة وأيقونتها عندما تريد أن يكون Home أسهل في التصفح.
 
-![صف المجموعة في Home](assets/crops/group-row.png)
+![صف المجموعة في Home](assets/crops/ar/group-row.png)
 
 1. افتح المجموعة.
 2. اضغط زر التعديل بجانب عنوان المجموعة.
 3. اضغط **Rename** لتغيير الاسم.
 4. أدخل الاسم الجديد وأكّد.
 
-![قائمة الاسم والأيقونة](assets/crops/edit-group-menu.png)
+![قائمة الاسم والأيقونة](assets/crops/ar/edit-group-menu.png)
 
 لتغيير الأيقونة:
 
@@ -17,6 +17,6 @@
 2. اضغط **Choose Icon**.
 3. اختر الأيقونة الأنسب للمجموعة.
 
-![قائمة Choose Icon](assets/crops/choose-icon-menu.png)
+![قائمة Choose Icon](assets/crops/ar/choose-icon-menu.png)
 
 يتم حفظ الاسم والأيقونة الجديدين فورًا ويظهران في Home وفي شاشة تفاصيل المجموعة.

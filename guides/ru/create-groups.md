@@ -2,7 +2,7 @@
 
 Группы помогают держать приложения, категории и сайты вместе. Группу можно заблокировать вручную или по расписанию.
 
-![Кнопка Create Group](assets/crops/create-group-button.png)
+![Кнопка Create Group](assets/crops/ru/create-group-button.png)
 
 1. Откройте App Lock.
 2. Нажмите **Create Group** в верхней части Home.
@@ -10,7 +10,7 @@
 4. Выберите приложения, категории или сайты, которые нужно добавить.
 5. Нажмите синюю галочку, чтобы сохранить группу.
 
-![Выбор приложений и категорий](assets/crops/apps-picker-selection.png)
+![Выбор приложений и категорий](assets/crops/ru/apps-picker-selection.png)
 
 Советы:
 

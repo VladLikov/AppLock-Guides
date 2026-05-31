@@ -2,7 +2,7 @@
 
 समूह ऐप्स, श्रेणियों और वेबसाइटों को साथ रखने में मदद करते हैं। आप समूह को मैन्युअल रूप से या शेड्यूल से लॉक कर सकते हैं।
 
-![Create Group बटन](assets/crops/create-group-button.png)
+![Create Group बटन](assets/crops/hi/create-group-button.png)
 
 1. App Lock खोलें।
 2. Home के ऊपर **Create Group** पर टैप करें।
@@ -10,7 +10,7 @@
 4. वे ऐप्स, श्रेणियां या वेबसाइटें चुनें जिन्हें शामिल करना है।
 5. समूह सेव करने के लिए नीले चेकमार्क पर टैप करें।
 
-![ऐप और श्रेणी चयन](assets/crops/apps-picker-selection.png)
+![ऐप और श्रेणी चयन](assets/crops/hi/apps-picker-selection.png)
 
 सुझाव:
 

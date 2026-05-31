@@ -2,7 +2,7 @@
 
 Agendas bloqueiam um grupo automaticamente durante os períodos escolhidos.
 
-![Ação Set Schedule](assets/crops/set-schedule-action.png)
+![Ação Set Schedule](assets/crops/pt-BR/set-schedule-action.png)
 
 1. Abra o grupo que deseja agendar.
 2. Toque em **MANAGE**.
@@ -12,7 +12,7 @@ Agendas bloqueiam um grupo automaticamente durante os períodos escolhidos.
 6. Selecione os dias em que a agenda deve rodar.
 7. Toque em **Done**.
 
-![Opções de agenda](assets/crops/schedule-options.png)
+![Opções de agenda](assets/crops/pt-BR/schedule-options.png)
 
 Use **All Day** quando o grupo precisar ficar bloqueado durante todo o dia selecionado.
 

@@ -2,7 +2,7 @@
 
 일정은 선택한 시간 동안 그룹을 자동으로 잠급니다.
 
-![Set Schedule 작업](assets/crops/set-schedule-action.png)
+![Set Schedule 작업](assets/crops/ko/set-schedule-action.png)
 
 1. 일정을 설정할 그룹을 엽니다.
 2. **MANAGE** 를 탭합니다.
@@ -12,7 +12,7 @@
 6. 일정이 실행될 요일을 선택합니다.
 7. **Done** 을 탭합니다.
 
-![일정 옵션](assets/crops/schedule-options.png)
+![일정 옵션](assets/crops/ko/schedule-options.png)
 
 선택한 날 전체 동안 그룹을 잠그려면 **All Day** 를 사용합니다.
 

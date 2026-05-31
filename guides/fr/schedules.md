@@ -2,7 +2,7 @@
 
 Les horaires verrouillent automatiquement un groupe pendant les périodes choisies.
 
-![Action Set Schedule](assets/crops/set-schedule-action.png)
+![Action Set Schedule](assets/crops/fr/set-schedule-action.png)
 
 1. Ouvrez le groupe à planifier.
 2. Touchez **MANAGE**.
@@ -12,7 +12,7 @@ Les horaires verrouillent automatiquement un groupe pendant les périodes choisi
 6. Sélectionnez les jours où l’horaire doit s’exécuter.
 7. Touchez **Done**.
 
-![Options d’horaire](assets/crops/schedule-options.png)
+![Options d’horaire](assets/crops/fr/schedule-options.png)
 
 Utilisez **All Day** si le groupe doit rester verrouillé pendant toute la journée sélectionnée.
 

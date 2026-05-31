@@ -2,7 +2,7 @@
 
 تقفل الجداول المجموعة تلقائيًا خلال الفترات التي تختارها.
 
-![إجراء Set Schedule](assets/crops/set-schedule-action.png)
+![إجراء Set Schedule](assets/crops/ar/set-schedule-action.png)
 
 1. افتح المجموعة التي تريد جدولة قفلها.
 2. اضغط **MANAGE**.
@@ -12,7 +12,7 @@
 6. اختر الأيام التي يجب أن يعمل فيها الجدول.
 7. اضغط **Done**.
 
-![خيارات الجدول](assets/crops/schedule-options.png)
+![خيارات الجدول](assets/crops/ar/schedule-options.png)
 
 استخدم **All Day** إذا كان يجب أن تبقى المجموعة مقفلة طوال اليوم المحدد.
 

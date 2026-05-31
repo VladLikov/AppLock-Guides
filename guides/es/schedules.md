@@ -2,7 +2,7 @@
 
 Los horarios bloquean un grupo automáticamente durante los intervalos que elijas.
 
-![Acción Set Schedule](assets/crops/set-schedule-action.png)
+![Acción Set Schedule](assets/crops/es/set-schedule-action.png)
 
 1. Abre el grupo al que quieres añadir un horario.
 2. Toca **MANAGE**.
@@ -12,7 +12,7 @@ Los horarios bloquean un grupo automáticamente durante los intervalos que elija
 6. Selecciona los días en los que debe ejecutarse.
 7. Toca **Done**.
 
-![Opciones de horario](assets/crops/schedule-options.png)
+![Opciones de horario](assets/crops/es/schedule-options.png)
 
 Usa **All Day** cuando el grupo deba permanecer bloqueado durante todo el día seleccionado.
 

@@ -2,7 +2,7 @@
 
 그룹을 사용하면 앱, 카테고리, 웹사이트를 함께 관리할 수 있습니다. 그룹은 수동으로 잠그거나 일정으로 잠글 수 있습니다.
 
-![Create Group 버튼](assets/crops/create-group-button.png)
+![Create Group 버튼](assets/crops/ko/create-group-button.png)
 
 1. App Lock을 엽니다.
 2. Home 상단의 **Create Group** 을 탭합니다.
@@ -10,7 +10,7 @@
 4. 포함할 앱, 카테고리 또는 웹사이트를 선택합니다.
 5. 파란 체크 표시를 탭해 그룹을 저장합니다.
 
-![앱 및 카테고리 선택](assets/crops/apps-picker-selection.png)
+![앱 및 카테고리 선택](assets/crops/ko/apps-picker-selection.png)
 
 팁:
 

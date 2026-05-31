@@ -2,7 +2,7 @@
 
 تساعدك المجموعات على جمع التطبيقات والفئات والمواقع في مكان واحد. يمكن قفل المجموعة يدويًا أو حسب جدول.
 
-![زر Create Group](assets/crops/create-group-button.png)
+![زر Create Group](assets/crops/ar/create-group-button.png)
 
 1. افتح App Lock.
 2. اضغط **Create Group** في أعلى Home.
@@ -10,7 +10,7 @@
 4. اختر التطبيقات أو الفئات أو المواقع التي تريد إضافتها.
 5. اضغط علامة الصح الزرقاء لحفظ المجموعة.
 
-![اختيار التطبيقات والفئات](assets/crops/apps-picker-selection.png)
+![اختيار التطبيقات والفئات](assets/crops/ar/apps-picker-selection.png)
 
 نصائح:
 

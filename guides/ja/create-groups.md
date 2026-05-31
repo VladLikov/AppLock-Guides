@@ -2,7 +2,7 @@
 
 グループを使うと、アプリ、カテゴリ、Webサイトをまとめて管理できます。グループは手動でもスケジュールでもロックできます。
 
-![Create Group ボタン](assets/crops/create-group-button.png)
+![Create Group ボタン](assets/crops/ja/create-group-button.png)
 
 1. App Lockを開きます。
 2. Homeの上部にある **Create Group** をタップします。
@@ -10,7 +10,7 @@
 4. 含めたいアプリ、カテゴリ、Webサイトを選びます。
 5. 青いチェックマークをタップしてグループを保存します。
 
-![アプリとカテゴリの選択](assets/crops/apps-picker-selection.png)
+![アプリとカテゴリの選択](assets/crops/ja/apps-picker-selection.png)
 
 ヒント:
 

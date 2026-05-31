@@ -2,7 +2,7 @@
 
 Zeitpläne sperren eine Gruppe automatisch in den von dir gewählten Zeitfenstern.
 
-![Aktion Set Schedule](assets/crops/set-schedule-action.png)
+![Aktion Set Schedule](assets/crops/de/set-schedule-action.png)
 
 1. Öffne die Gruppe, die du planen möchtest.
 2. Tippe auf **MANAGE**.
@@ -12,7 +12,7 @@ Zeitpläne sperren eine Gruppe automatisch in den von dir gewählten Zeitfenster
 6. Wähle die Tage aus, an denen der Zeitplan laufen soll.
 7. Tippe auf **Done**.
 
-![Zeitplanoptionen](assets/crops/schedule-options.png)
+![Zeitplanoptionen](assets/crops/de/schedule-options.png)
 
 Nutze **All Day**, wenn die Gruppe den ganzen ausgewählten Tag gesperrt bleiben soll.
 

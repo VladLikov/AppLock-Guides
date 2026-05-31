@@ -2,14 +2,14 @@
 
 Home को आसानी से देखने के लिए समूह का नाम और आइकन बदलें।
 
-![Home पर समूह पंक्ति](assets/crops/group-row.png)
+![Home पर समूह पंक्ति](assets/crops/hi/group-row.png)
 
 1. समूह खोलें।
 2. समूह शीर्षक के पास एडिट बटन पर टैप करें।
 3. नाम बदलने के लिए **Rename** पर टैप करें।
 4. नया नाम दर्ज करें और पुष्टि करें।
 
-![नाम और आइकन मेनू](assets/crops/edit-group-menu.png)
+![नाम और आइकन मेनू](assets/crops/hi/edit-group-menu.png)
 
 आइकन बदलने के लिए:
 
@@ -17,6 +17,6 @@ Home को आसानी से देखने के लिए समूह
 2. **Choose Icon** पर टैप करें।
 3. वह आइकन चुनें जो समूह से सबसे अच्छा मेल खाता है।
 
-![Choose Icon मेनू](assets/crops/choose-icon-menu.png)
+![Choose Icon मेनू](assets/crops/hi/choose-icon-menu.png)
 
 नया नाम और आइकन तुरंत सेव हो जाते हैं और Home तथा समूह विवरण स्क्रीन पर दिखाई देते हैं।
