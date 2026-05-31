@@ -238,5 +238,65 @@
         "file": "guides/ar/edit-groups.md"
       }
     }
+  },
+  {
+    "id": "app-passcode",
+    "localizations": {
+      "en": {
+        "title": "Set app passcode",
+        "subtitle": "Protect App Lock with a 4-digit code and biometrics.",
+        "file": "guides/en/app-passcode.md"
+      },
+      "ru": {
+        "title": "Установить пароль для приложения",
+        "subtitle": "Защитите App Lock кодом из 4 цифр и биометрией.",
+        "file": "guides/ru/app-passcode.md"
+      },
+      "es": {
+        "title": "Configurar código de la app",
+        "subtitle": "Protege App Lock con un código de 4 dígitos y biometría.",
+        "file": "guides/es/app-passcode.md"
+      },
+      "pt-BR": {
+        "title": "Definir código do app",
+        "subtitle": "Proteja o App Lock com um código de 4 dígitos e biometria.",
+        "file": "guides/pt-BR/app-passcode.md"
+      },
+      "fr": {
+        "title": "Définir un code pour l’app",
+        "subtitle": "Protégez App Lock avec un code à 4 chiffres et la biométrie.",
+        "file": "guides/fr/app-passcode.md"
+      },
+      "de": {
+        "title": "App-Passcode einrichten",
+        "subtitle": "Schütze App Lock mit einem 4-stelligen Code und Biometrie.",
+        "file": "guides/de/app-passcode.md"
+      },
+      "zh-Hans": {
+        "title": "设置应用密码",
+        "subtitle": "使用 4 位代码和生物识别保护 App Lock。",
+        "file": "guides/zh-Hans/app-passcode.md"
+      },
+      "ja": {
+        "title": "アプリのパスコードを設定",
+        "subtitle": "4桁のコードと生体認証でApp Lockを保護します。",
+        "file": "guides/ja/app-passcode.md"
+      },
+      "ko": {
+        "title": "앱 암호 설정",
+        "subtitle": "4자리 코드와 생체 인식으로 App Lock을 보호합니다.",
+        "file": "guides/ko/app-passcode.md"
+      },
+      "hi": {
+        "title": "ऐप पासकोड सेट करें",
+        "subtitle": "App Lock को 4-अंकों के कोड और बायोमेट्रिक्स से सुरक्षित करें।",
+        "file": "guides/hi/app-passcode.md"
+      },
+      "ar": {
+        "title": "تعيين رمز مرور للتطبيق",
+        "subtitle": "احمِ App Lock برمز مكوّن من 4 أرقام وبالمصادقة الحيوية.",
+        "file": "guides/ar/app-passcode.md"
+      }
+    }
   }
 ]
