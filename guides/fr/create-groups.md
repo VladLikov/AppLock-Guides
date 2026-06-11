@@ -1,5 +1,3 @@
-# Créer un groupe
-
 Les groupes gardent ensemble apps, catégories et sites web. Un groupe peut être verrouillé manuellement ou avec un horaire.
 
 ![Bouton Create Group](assets/crops/fr/create-group-button.png)

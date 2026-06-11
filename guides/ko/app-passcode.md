@@ -1,5 +1,3 @@
-# 앱 암호 설정
-
 App Lock을 열기 전에 코드를 요청하려면 개인정보의 인증을 사용하세요.
 
 ![설정의 개인정보 항목](assets/crops/ko/settings-privacy-row.png)

@@ -1,5 +1,3 @@
-# 创建时间表
-
 时间表会在你选择的时间段内自动锁定分组。
 
 ![Set Schedule 操作](assets/crops/zh-Hans/set-schedule-action.png)

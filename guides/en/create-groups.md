@@ -1,5 +1,3 @@
-# Create a group
-
 Use groups to keep apps, categories, and websites together. A group can be locked manually or by schedule.
 
 ![Create Group button](assets/crops/en/create-group-button.png)

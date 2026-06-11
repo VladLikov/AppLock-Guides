@@ -1,5 +1,3 @@
-# 重命名分组并更改图标
-
 如果想让 Home 更容易浏览，可以重命名分组并更改图标。
 
 ![Home 上的分组行](assets/crops/zh-Hans/group-row.png)

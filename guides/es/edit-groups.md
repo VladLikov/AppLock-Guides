@@ -1,5 +1,3 @@
-# Renombrar grupos y cambiar iconos
-
 Renombra un grupo y cambia su icono cuando quieras que Home sea más fácil de revisar.
 
 ![Fila del grupo en Home](assets/crops/es/group-row.png)

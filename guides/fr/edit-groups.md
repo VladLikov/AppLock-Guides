@@ -1,5 +1,3 @@
-# Renommer les groupes et changer les icônes
-
 Renommez un groupe et changez son icône pour rendre Home plus facile à parcourir.
 
 ![Ligne du groupe dans Home](assets/crops/fr/group-row.png)

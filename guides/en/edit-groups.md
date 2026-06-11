@@ -1,5 +1,3 @@
-# Rename groups and change icons
-
 Rename a group and change its icon when you want Home to be easier to scan.
 
 ![Group row on Home](assets/crops/en/group-row.png)

@@ -1,5 +1,3 @@
-# 그룹 이름 및 아이콘 변경
-
 Home을 더 쉽게 훑어보려면 그룹 이름과 아이콘을 변경합니다.
 
 ![Home의 그룹 행](assets/crops/ko/group-row.png)

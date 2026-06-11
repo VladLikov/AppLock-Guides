@@ -1,5 +1,3 @@
-# 设置应用密码
-
 如果你希望打开 App Lock 时先输入代码，请在隐私设置中使用“认证”。
 
 ![设置中的隐私选项](assets/crops/zh-Hans/settings-privacy-row.png)

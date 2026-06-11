@@ -1,5 +1,3 @@
-# Crear horarios
-
 Los horarios bloquean un grupo automáticamente durante los intervalos que elijas.
 
 ![Acción Set Schedule](assets/crops/es/set-schedule-action.png)

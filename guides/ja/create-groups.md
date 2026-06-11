@@ -1,5 +1,3 @@
-# グループを作成
-
 グループを使うと、アプリ、カテゴリ、Webサイトをまとめて管理できます。グループは手動でもスケジュールでもロックできます。
 
 ![Create Group ボタン](assets/crops/ja/create-group-button.png)

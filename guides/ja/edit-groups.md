@@ -1,5 +1,3 @@
-# グループ名とアイコンを変更
-
 Homeを見やすくしたいときは、グループ名とアイコンを変更します。
 
 ![Homeのグループ行](assets/crops/ja/group-row.png)

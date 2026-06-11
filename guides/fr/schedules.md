@@ -1,5 +1,3 @@
-# Créer des horaires
-
 Les horaires verrouillent automatiquement un groupe pendant les périodes choisies.
 
 ![Action Set Schedule](assets/crops/fr/set-schedule-action.png)

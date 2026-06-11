@@ -1,5 +1,3 @@
-# Zeitpläne erstellen
-
 Zeitpläne sperren eine Gruppe automatisch in den von dir gewählten Zeitfenstern.
 
 ![Aktion Set Schedule](assets/crops/de/set-schedule-action.png)

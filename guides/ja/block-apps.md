@@ -1,13 +1,10 @@
-# アプリをブロック
-
 グループを作成したら、Homeまたはグループ詳細画面からグループ内のすべてをロックできます。
 
 ![Homeのグループ行](assets/crops/ja/group-row.png)
 
-1. ブロックしたいグループを開きます。
-2. ナビゲーションバーの **MANAGE** をタップします。
-3. **Lock All** をタップします。
-4. App Lockは選択されたアプリ、カテゴリ、Webサイトにすぐ制限を適用します。
+1. ナビゲーションバーの **MANAGE** をタップします。
+2. **Lock All** をタップします。
+3. App Lockは選択されたアプリ、カテゴリ、Webサイトにすぐ制限を適用します。
 
 ![Lock Allの操作](assets/crops/ja/lock-all-action.png)
 

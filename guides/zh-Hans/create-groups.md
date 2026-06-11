@@ -1,5 +1,3 @@
-# 创建分组
-
 分组可以把应用、类别和网站放在一起。你可以手动锁定分组，也可以按时间表自动锁定。
 
 ![Create Group 按钮](assets/crops/zh-Hans/create-group-button.png)

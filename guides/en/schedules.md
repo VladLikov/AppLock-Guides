@@ -1,5 +1,3 @@
-# Create schedules
-
 Schedules lock a group automatically during the time windows you choose.
 
 ![Set Schedule action](assets/crops/en/set-schedule-action.png)

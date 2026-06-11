@@ -1,13 +1,10 @@
-# Bloquear apps
-
 Después de crear un grupo, puedes bloquear todo el grupo desde Home o desde la pantalla de detalles.
 
 ![Fila del grupo en Home](assets/crops/es/group-row.png)
 
-1. Abre el grupo que quieres bloquear.
-2. Toca **MANAGE** en la barra de navegación.
-3. Toca **Lock All**.
-4. App Lock aplica de inmediato el bloqueo a las apps, categorías y sitios web seleccionados.
+1. Toca **MANAGE** en la barra de navegación.
+2. Toca **Lock All**.
+3. App Lock aplica de inmediato el bloqueo a las apps, categorías y sitios web seleccionados.
 
 ![Acción Lock All](assets/crops/es/lock-all-action.png)
 

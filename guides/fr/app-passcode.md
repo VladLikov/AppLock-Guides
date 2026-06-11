@@ -1,5 +1,3 @@
-# Définir un code pour l’app
-
 Utilisez Authentification dans Confidentialité si vous voulez qu’App Lock demande un code avant de s’ouvrir.
 
 ![Ligne Confidentialité dans Réglages](assets/crops/fr/settings-privacy-row.png)

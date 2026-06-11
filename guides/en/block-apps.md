@@ -1,13 +1,10 @@
-# Block apps
-
 After a group is created, you can lock everything in that group from Home or from the group details screen.
 
 ![Group row on Home](assets/crops/en/group-row.png)
 
-1. Open the group you want to block.
-2. Tap **MANAGE** in the navigation bar.
-3. Tap **Lock All**.
-4. App Lock immediately applies the shield to the selected apps, categories, and websites.
+1. Tap **MANAGE** in the navigation bar.
+2. Tap **Lock All**.
+3. App Lock immediately applies the shield to the selected apps, categories, and websites.
 
 ![Lock All menu action](assets/crops/en/lock-all-action.png)
 

@@ -1,13 +1,10 @@
-# Apps blockieren
-
 Nachdem eine Gruppe erstellt wurde, kannst du alles darin über Home oder die Detailansicht sperren.
 
 ![Gruppenzeile in Home](assets/crops/de/group-row.png)
 
-1. Öffne die Gruppe, die du sperren möchtest.
-2. Tippe in der Navigationsleiste auf **MANAGE**.
-3. Tippe auf **Lock All**.
-4. App Lock wendet die Sperre sofort auf die ausgewählten Apps, Kategorien und Websites an.
+1. Tippe in der Navigationsleiste auf **MANAGE**.
+2. Tippe auf **Lock All**.
+3. App Lock wendet die Sperre sofort auf die ausgewählten Apps, Kategorien und Websites an.
 
 ![Aktion Lock All](assets/crops/de/lock-all-action.png)
 

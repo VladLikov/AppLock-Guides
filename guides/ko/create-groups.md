@@ -1,5 +1,3 @@
-# 그룹 만들기
-
 그룹을 사용하면 앱, 카테고리, 웹사이트를 함께 관리할 수 있습니다. 그룹은 수동으로 잠그거나 일정으로 잠글 수 있습니다.
 
 ![Create Group 버튼](assets/crops/ko/create-group-button.png)

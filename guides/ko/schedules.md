@@ -1,5 +1,3 @@
-# 일정 만들기
-
 일정은 선택한 시간 동안 그룹을 자동으로 잠급니다.
 
 ![Set Schedule 작업](assets/crops/ko/set-schedule-action.png)

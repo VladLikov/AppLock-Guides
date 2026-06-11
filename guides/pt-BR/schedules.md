@@ -1,5 +1,3 @@
-# Criar agendas
-
 Agendas bloqueiam um grupo automaticamente durante os períodos escolhidos.
 
 ![Ação Set Schedule](assets/crops/pt-BR/set-schedule-action.png)

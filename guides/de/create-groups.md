@@ -1,5 +1,3 @@
-# Gruppe erstellen
-
 Gruppen halten Apps, Kategorien und Websites zusammen. Eine Gruppe kann manuell oder nach Zeitplan gesperrt werden.
 
 ![Schaltfläche Create Group](assets/crops/de/create-group-button.png)

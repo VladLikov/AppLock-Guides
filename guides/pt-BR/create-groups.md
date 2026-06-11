@@ -1,5 +1,3 @@
-# Criar um grupo
-
 Grupos mantêm apps, categorias e sites juntos. Um grupo pode ser bloqueado manualmente ou por agenda.
 
 ![Botão Create Group](assets/crops/pt-BR/create-group-button.png)

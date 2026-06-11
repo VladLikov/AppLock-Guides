@@ -1,5 +1,3 @@
-# アプリのパスコードを設定
-
 App Lockを開く前にコードを求めたい場合は、プライバシーの認証を使います。
 
 ![設定のプライバシー項目](assets/crops/ja/settings-privacy-row.png)

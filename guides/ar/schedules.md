@@ -1,5 +1,3 @@
-# إنشاء الجداول
-
 تقفل الجداول المجموعة تلقائيًا خلال الفترات التي تختارها.
 
 ![إجراء Set Schedule](assets/crops/ar/set-schedule-action.png)

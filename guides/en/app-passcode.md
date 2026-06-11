@@ -1,5 +1,3 @@
-# Set an app passcode
-
 Use Authentication in Privacy when you want App Lock itself to ask for a code before opening.
 
 ![Privacy row in Settings](assets/crops/en/settings-privacy-row.png)

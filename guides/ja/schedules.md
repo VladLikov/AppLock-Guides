@@ -1,5 +1,3 @@
-# スケジュールを作成
-
 スケジュールを使うと、選んだ時間帯にグループを自動でロックできます。
 
 ![Set Scheduleの操作](assets/crops/ja/set-schedule-action.png)

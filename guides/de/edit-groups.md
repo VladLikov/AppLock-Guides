@@ -1,5 +1,3 @@
-# Gruppen umbenennen und Symbole ändern
-
 Benenne eine Gruppe um und ändere ihr Symbol, wenn Home leichter zu überblicken sein soll.
 
 ![Gruppenzeile in Home](assets/crops/de/group-row.png)

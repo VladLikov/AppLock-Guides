@@ -1,5 +1,3 @@
-# App-Passcode einrichten
-
 Verwende Authentifizierung unter Datenschutz, wenn App Lock beim Öffnen einen Code abfragen soll.
 
 ![Datenschutz-Zeile in Einstellungen](assets/crops/de/settings-privacy-row.png)

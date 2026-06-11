@@ -1,5 +1,3 @@
-# Renomear grupos e alterar ícones
-
 Renomeie um grupo e altere seu ícone quando quiser deixar Home mais fácil de ler.
 
 ![Linha do grupo em Home](assets/crops/pt-BR/group-row.png)

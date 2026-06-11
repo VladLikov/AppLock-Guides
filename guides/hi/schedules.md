@@ -1,5 +1,3 @@
-# शेड्यूल बनाएं
-
 शेड्यूल चुने गए समय में समूह को अपने आप लॉक करते हैं।
 
 ![Set Schedule कार्रवाई](assets/crops/hi/set-schedule-action.png)

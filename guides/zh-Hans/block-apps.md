@@ -1,13 +1,10 @@
-# 阻止应用
-
 创建分组后，你可以从 Home 或分组详情页锁定该分组中的所有内容。
 
 ![Home 上的分组行](assets/crops/zh-Hans/group-row.png)
 
-1. 打开要锁定的分组。
-2. 点按导航栏中的 **MANAGE**。
-3. 点按 **Lock All**。
-4. App Lock 会立即对所选应用、类别和网站应用限制。
+1. 点按导航栏中的 **MANAGE**。
+2. 点按 **Lock All**。
+3. App Lock 会立即对所选应用、类别和网站应用限制。
 
 ![Lock All 操作](assets/crops/zh-Hans/lock-all-action.png)
 
