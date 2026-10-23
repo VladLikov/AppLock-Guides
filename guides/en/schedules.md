@@ -1,17 +1,10 @@
-Schedules lock a group automatically during the time windows you choose.
+Schedules can block a group or individual selected items automatically. Screen Time access and Premium are required to save a schedule.
 
-![Set Schedule action](assets/crops/en/set-schedule-action.png)
+1. Open a group and tap **MANAGE**, or open **MANAGE** for an individual item.
+2. Choose **Set Schedule** and turn on **Use Schedule**.
+3. Choose **Period** to block access between a start and end time. Adjust the times and select the weekdays. **Scenarios** fills in a ready-made routine that you can then edit.
+4. Choose **Daily Limit** instead to allow a daily amount of use before blocking. The limit applies separately to each app; selected categories and websites share a separate limit.
+5. Optionally enable a reminder. Allow notifications when asked if you want reminders.
+6. Tap the **checkmark in the top-right corner** to save.
 
-1. Open the group you want to schedule.
-2. Tap **MANAGE**.
-3. Tap **Set Schedule**.
-4. Turn on **Use Schedule**.
-5. Choose the lock and unlock time.
-6. Select the days when the schedule should run.
-7. Tap **Done**.
-
-![Schedule options](assets/crops/en/schedule-options.png)
-
-Use **All Day** when the group should stay locked for the full selected day.
-
-If you need different rules for different days, create a separate group for each routine.
+To remove the schedule, reopen this editor, turn off **Use Schedule**, and save with the checkmark. Removing a schedule does not remove a separate manual lock or location rule.

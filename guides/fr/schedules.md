@@ -1,17 +1,10 @@
-Les horaires verrouillent automatiquement un groupe pendant les périodes choisies.
+Les horaires peuvent bloquer automatiquement un groupe ou des éléments individuels. Leur enregistrement nécessite l’accès à Temps d’écran et Premium.
 
-![Action Set Schedule](assets/crops/fr/set-schedule-action.png)
+1. Ouvrez un groupe et touchez **MANAGE**, ou ouvrez **MANAGE** pour un élément individuel.
+2. Choisissez **Set Schedule** et activez **Use Schedule**.
+3. Choisissez **Period** pour bloquer entre une heure de début et de fin. Réglez les heures et les jours. **Scenarios** applique une routine prédéfinie que vous pouvez modifier.
+4. Ou choisissez **Daily Limit** pour bloquer après une durée quotidienne d’utilisation. Chaque app a sa propre limite ; les catégories et sites sélectionnés partagent une autre limite.
+5. Activez éventuellement un rappel et autorisez les notifications à la demande.
+6. Enregistrez avec la **coche en haut à droite**.
 
-1. Ouvrez le groupe à planifier.
-2. Touchez **MANAGE**.
-3. Touchez **Set Schedule**.
-4. Activez **Use Schedule**.
-5. Choisissez l’heure de verrouillage et de déverrouillage.
-6. Sélectionnez les jours où l’horaire doit s’exécuter.
-7. Touchez **Done**.
-
-![Options d’horaire](assets/crops/fr/schedule-options.png)
-
-Utilisez **All Day** si le groupe doit rester verrouillé pendant toute la journée sélectionnée.
-
-Si vous avez besoin de règles différentes selon les jours, créez un groupe séparé pour chaque routine.
+Pour supprimer l’horaire, désactivez **Use Schedule** et enregistrez avec la coche. Cela ne supprime pas un blocage manuel ou une règle de localisation distincts.

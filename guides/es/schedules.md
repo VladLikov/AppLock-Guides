@@ -1,17 +1,10 @@
-Los horarios bloquean un grupo automáticamente durante los intervalos que elijas.
+Los horarios pueden bloquear automáticamente un grupo o elementos individuales. Para guardarlos necesitas acceso a Tiempo de uso y Premium.
 
-![Acción Set Schedule](assets/crops/es/set-schedule-action.png)
+1. Abre un grupo y toca **MANAGE**, o abre **MANAGE** para un elemento individual.
+2. Elige **Set Schedule** y activa **Use Schedule**.
+3. Elige **Period** para bloquear entre una hora de inicio y una de fin. Ajusta las horas y los días de la semana. **Scenarios** aplica una rutina predefinida que puedes editar.
+4. También puedes elegir **Daily Limit** para bloquear al alcanzar el tiempo de uso diario. Cada app tiene su propio límite; las categorías y los sitios seleccionados comparten otro límite.
+5. Si quieres, activa un recordatorio y permite las notificaciones cuando se solicite.
+6. Guarda con la **marca de verificación de la esquina superior derecha**.
 
-1. Abre el grupo al que quieres añadir un horario.
-2. Toca **MANAGE**.
-3. Toca **Set Schedule**.
-4. Activa **Use Schedule**.
-5. Elige la hora de bloqueo y desbloqueo.
-6. Selecciona los días en los que debe ejecutarse.
-7. Toca **Done**.
-
-![Opciones de horario](assets/crops/es/schedule-options.png)
-
-Usa **All Day** cuando el grupo deba permanecer bloqueado durante todo el día seleccionado.
-
-Si necesitas reglas distintas para días distintos, crea un grupo separado para cada rutina.
+Para eliminar el horario, desactiva **Use Schedule** y guarda con la marca de verificación. Esto no elimina un bloqueo manual ni una regla de ubicación independientes.

@@ -1,17 +1,10 @@
-Zeitpläne sperren eine Gruppe automatisch in den von dir gewählten Zeitfenstern.
+Zeitpläne können eine Gruppe oder einzelne Elemente automatisch sperren. Zum Speichern sind Bildschirmzeit-Zugriff und Premium erforderlich.
 
-![Aktion Set Schedule](assets/crops/de/set-schedule-action.png)
+1. Öffne eine Gruppe und tippe auf **MANAGE**, oder öffne **MANAGE** für ein einzelnes Element.
+2. Wähle **Set Schedule** und aktiviere **Use Schedule**.
+3. Wähle **Period**, um zwischen einer Start- und Endzeit zu sperren. Passe Zeiten und Wochentage an. **Scenarios** übernimmt eine vorgefertigte Routine, die du bearbeiten kannst.
+4. Oder wähle **Daily Limit**, um nach einer täglichen Nutzungsdauer zu sperren. Jede App hat ein eigenes Limit; ausgewählte Kategorien und Websites teilen sich ein separates Limit.
+5. Aktiviere bei Bedarf eine Erinnerung und erlaube Mitteilungen, wenn du gefragt wirst.
+6. Speichere mit dem **Häkchen oben rechts**.
 
-1. Öffne die Gruppe, die du planen möchtest.
-2. Tippe auf **MANAGE**.
-3. Tippe auf **Set Schedule**.
-4. Aktiviere **Use Schedule**.
-5. Wähle Sperr- und Entsperrzeit.
-6. Wähle die Tage aus, an denen der Zeitplan laufen soll.
-7. Tippe auf **Done**.
-
-![Zeitplanoptionen](assets/crops/de/schedule-options.png)
-
-Nutze **All Day**, wenn die Gruppe den ganzen ausgewählten Tag gesperrt bleiben soll.
-
-Wenn du für verschiedene Tage unterschiedliche Regeln brauchst, erstelle für jede Routine eine eigene Gruppe.
+Zum Entfernen deaktiviere **Use Schedule** und speichere mit dem Häkchen. Eine separate manuelle Sperre oder Standortregel bleibt bestehen.
