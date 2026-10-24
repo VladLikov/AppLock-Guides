@@ -124,57 +124,57 @@
     "localizations": {
       "en": {
         "title": "Blocking modes and Pause",
-        "subtitle": "Understand Lock, schedules, daily limits, location and temporary access.",
+        "subtitle": "Manual protection, schedules, daily limits, location and temporary access.",
         "file": "guides/en/blocking-modes.md"
       },
       "ru": {
         "title": "Режимы блокировки и пауза",
-        "subtitle": "Как работают Lock, расписания, дневной лимит, геолокация и временный доступ.",
+        "subtitle": "Ручная блокировка, расписания, дневной лимит, геолокация и временный доступ.",
         "file": "guides/ru/blocking-modes.md"
       },
       "es": {
-        "title": "Modos de bloqueo y Pause",
-        "subtitle": "Cómo funcionan Lock, horarios, límites diarios, ubicación y acceso temporal.",
+        "title": "Modos de bloqueo y Pausa",
+        "subtitle": "Bloqueo manual, horarios, límites diarios, ubicación y acceso temporal.",
         "file": "guides/es/blocking-modes.md"
       },
       "pt-BR": {
-        "title": "Modos de bloqueio e Pause",
-        "subtitle": "Entenda Lock, horários, limites diários, localização e acesso temporário.",
+        "title": "Modos de bloqueio e Pausa",
+        "subtitle": "Bloqueio manual, horários, limites diários, localização e acesso temporário.",
         "file": "guides/pt-BR/blocking-modes.md"
       },
       "fr": {
         "title": "Modes de blocage et Pause",
-        "subtitle": "Comprendre Lock, horaires, limites quotidiennes, position et accès temporaire.",
+        "subtitle": "Blocage manuel, horaires, limites quotidiennes, position et accès temporaire.",
         "file": "guides/fr/blocking-modes.md"
       },
       "de": {
         "title": "Sperrmodi und Pause",
-        "subtitle": "Lock, Zeitpläne, Tageslimits, Standort und vorübergehenden Zugriff verstehen.",
+        "subtitle": "Manuelle Sperren, Zeitpläne, Tageslimits, Standort und vorübergehender Zugriff.",
         "file": "guides/de/blocking-modes.md"
       },
       "zh-Hans": {
-        "title": "限制模式与 Pause",
+        "title": "限制模式与 暂停",
         "subtitle": "了解手动锁定、时间表、每日限额、位置和临时访问。",
         "file": "guides/zh-Hans/blocking-modes.md"
       },
       "ja": {
-        "title": "ブロックの種類とPause",
-        "subtitle": "Lock・スケジュール・1日の上限・位置・一時許可の使い方。",
+        "title": "ブロックの種類と一時停止",
+        "subtitle": "手動ブロック・スケジュール・1日の上限・位置・一時許可の使い方。",
         "file": "guides/ja/blocking-modes.md"
       },
       "ko": {
-        "title": "차단 모드와 Pause",
-        "subtitle": "Lock, 일정, 하루 한도, 위치와 임시 접근이 작동하는 방식입니다.",
+        "title": "차단 모드와 일시 정지",
+        "subtitle": "수동 차단, 일정, 하루 한도, 위치와 임시 접근을 알아보세요.",
         "file": "guides/ko/blocking-modes.md"
       },
       "hi": {
-        "title": "ब्लॉक करने के तरीके और Pause",
-        "subtitle": "Lock, शेड्यूल, दैनिक सीमा, स्थान और अस्थायी पहुँच को समझें।",
+        "title": "ब्लॉक करने के तरीके और विराम",
+        "subtitle": "मैनुअल ब्लॉक, शेड्यूल, दैनिक सीमा, स्थान और अस्थायी पहुँच को समझें।",
         "file": "guides/hi/blocking-modes.md"
       },
       "ar": {
-        "title": "أوضاع الحظر وPause",
-        "subtitle": "تعرّف على Lock والجداول والحدود اليومية والموقع والوصول المؤقت.",
+        "title": "أوضاع الحظر وإيقاف مؤقت",
+        "subtitle": "تعرّف على الحظر اليدوي والجداول والحدود اليومية والموقع والوصول المؤقت.",
         "file": "guides/ar/blocking-modes.md"
       }
     }
