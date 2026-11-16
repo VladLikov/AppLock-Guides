@@ -1,23 +1,16 @@
-Use Autenticação em Privacidade quando quiser que o App Lock peça um código antes de abrir.
-
-![Linha Privacidade em Ajustes](assets/crops/pt-BR/settings-privacy-row.png)
-
-1. Abra o App Lock.
-2. Abra **Ajustes**.
-3. Na seção **App**, toque em **Privacidade**.
+## Ativar a autenticação
+1. No App Lock, abra **Ajustes** e depois **Autenticação**.
+2. Ative **Autenticação**.
 
 ![Interruptor de autenticação](assets/crops/pt-BR/privacy-authentication-switch.png)
 
-4. Ative **Autenticação**.
-5. Digite um novo código de 4 dígitos na tela **Criar código de acesso**.
+## Escolher um código
+1. Digite um código de acesso.
 
 ![Tela Criar código de acesso](assets/crops/pt-BR/create-passcode-screen.png)
 
-6. Digite o mesmo código novamente na tela **Repetir Código de Acesso**.
+2. Digite-o novamente para confirmar.
 
 ![Tela Repetir Código de Acesso](assets/crops/pt-BR/repeat-passcode-screen.png)
 
-Dicas:
-
-1. Mantenha a biometria ativada se quiser desbloquear mais rápido.
-2. Volte para **Privacidade** depois para alterar o código ou desativar a autenticação.
+Em **Autenticação**, você pode alterar o código ou ativar o Face ID ou Touch ID, se disponível.

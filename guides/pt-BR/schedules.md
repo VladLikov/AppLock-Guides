@@ -1,10 +1,17 @@
-Os agendamentos podem bloquear automaticamente um grupo ou itens individuais. Para salvar, é necessário permitir o Tempo de Uso e ter Premium.
+## Ativar um horário
+1. Em **GERENCIAR** de um grupo ou item, toque em **Definir Horário**.
+2. Ative **Usar Horário**.
 
-1. Abra um grupo e toque em **MANAGE**, ou abra **MANAGE** de um item individual.
-2. Escolha **Set Schedule** e ative **Use Schedule**.
-3. Escolha **Period** para bloquear entre os horários de início e término. Ajuste os horários e os dias da semana. **Scenarios** preenche uma rotina pronta que você pode editar.
-4. Ou escolha **Daily Limit** para bloquear após atingir o tempo diário de uso. O limite é individual para cada app; categorias e sites selecionados compartilham outro limite.
-5. Se desejar, ative um lembrete e permita as notificações quando solicitado.
-6. Salve tocando na **marca de seleção no canto superior direito**.
+Para salvar um horário, é preciso ter acesso ao Tempo de Uso e App Lock PRO.
 
-Para remover o agendamento, desative **Use Schedule** e salve com a marca de seleção. Isso não remove um bloqueio manual ou uma regra de localização separados.
+## Escolher um tipo
+- **Período**. Defina o início, o fim e os dias.
+- **Limite**. Defina o tempo de uso diário e os dias.
+
+**Cenários** oferece horários e dias predefinidos. Se o horário final for anterior ao inicial, o período termina no dia seguinte.
+
+## Salvar ou desativar
+- Toque na marca de seleção para salvar.
+- Para desativar, abra **Editar programação**, desative **Usar Horário** e toque na marca de seleção.
+
+Para receber avisos com antecedência, ative o lembrete e permita notificações.

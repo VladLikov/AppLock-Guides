@@ -1,19 +1,14 @@
-Après avoir créé un groupe, vous pouvez tout bloquer depuis Home ou depuis l’écran de détails.
+## Verrouiller un groupe
+1. Touchez **GÉRER** à côté du groupe ou dans le groupe.
 
 ![Ligne du groupe dans Home](assets/crops/fr/group-row.png)
 
-1. Touchez **MANAGE** dans la barre de navigation.
-2. Touchez **Lock All**.
-3. App Lock applique immédiatement le verrouillage aux apps, catégories et sites web sélectionnés.
+2. Touchez **Verrouiller le groupe**.
 
-![Action Lock All](assets/crops/fr/lock-all-action.png)
+Pour rétablir l’accès, touchez **Déverrouiller le groupe** dans le même menu.
 
-Vous pouvez aussi bloquer un seul élément du groupe:
-
+## Verrouiller un élément
 1. Ouvrez le groupe.
-2. Touchez **MANAGE** à côté de l’app, de la catégorie ou du site web.
-3. Touchez l’action de verrouillage pour cet élément.
+2. Touchez **GÉRER** à côté de l’app, puis **Verrouiller l’app**.
 
-![Menu d’un élément](assets/crops/fr/item-lock-action.png)
-
-Pour déverrouiller plus tard, ouvrez de nouveau **MANAGE** et choisissez l’action de déverrouillage.
+Les catégories et les sites web ont leurs propres commandes de verrouillage.

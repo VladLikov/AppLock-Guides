@@ -1,20 +1,12 @@
-Benenne eine Gruppe um und ändere ihr Symbol, wenn Home leichter zu überblicken sein soll.
-
-![Gruppenzeile in Home](assets/crops/de/group-row.png)
-
-1. Öffne die Gruppe.
-2. Tippe auf die Bearbeitungstaste neben dem Gruppentitel.
-3. Tippe auf **Rename**, um den Namen zu ändern.
-4. Gib den neuen Namen ein und bestätige.
+## Gruppe umbenennen
+1. Öffne die Gruppe und tippe auf den Stift.
 
 ![Menü für Name und Symbol](assets/crops/de/edit-group-menu.png)
 
-So änderst du das Symbol:
+2. Tippe auf **Umbenennen**, gib einen Namen ein und bestätige.
 
-1. Öffne dasselbe Bearbeitungsmenü.
-2. Tippe auf **Choose Icon**.
-3. Wähle das Symbol aus, das am besten zur Gruppe passt.
+## Symbol ändern
+1. Tippe im selben Menü auf **Symbol auswählen**.
+2. Wähle ein Symbol.
 
 ![Menü Choose Icon](assets/crops/de/choose-icon-menu.png)
-
-Der neue Name und das Symbol werden sofort gespeichert und erscheinen in Home und in den Gruppendetails.

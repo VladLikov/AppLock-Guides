@@ -2,360 +2,360 @@
   {
     "id": "create-groups",
     "localizations": {
-      "en": {
-        "title": "Create groups",
-        "subtitle": "Organize apps, categories, and websites into one lockable group.",
-        "file": "guides/en/create-groups.md"
-      },
-      "ru": {
-        "title": "Создать группы",
-        "subtitle": "Объединяйте приложения, категории и сайты в одну блокируемую группу.",
-        "file": "guides/ru/create-groups.md"
-      },
-      "es": {
-        "title": "Crear grupos",
-        "subtitle": "Organiza apps, categorías y sitios web en un grupo bloqueable.",
-        "file": "guides/es/create-groups.md"
-      },
-      "pt-BR": {
-        "title": "Criar grupos",
-        "subtitle": "Organize apps, categorias e sites em um grupo bloqueável.",
-        "file": "guides/pt-BR/create-groups.md"
-      },
-      "fr": {
-        "title": "Créer des groupes",
-        "subtitle": "Regroupez apps, catégories et sites web dans un groupe verrouillable.",
-        "file": "guides/fr/create-groups.md"
+      "ar": {
+        "title": "إنشاء مجموعة",
+        "subtitle": "اختر التطبيقات والفئات والمواقع.",
+        "file": "guides/ar/create-groups.md"
       },
       "de": {
-        "title": "Gruppen erstellen",
-        "subtitle": "Fasse Apps, Kategorien und Websites in einer sperrbaren Gruppe zusammen.",
+        "title": "Gruppe erstellen",
+        "subtitle": "Wähle Apps, Kategorien und Websites aus.",
         "file": "guides/de/create-groups.md"
       },
-      "zh-Hans": {
-        "title": "创建分组",
-        "subtitle": "把应用、类别和网站整理到一个可锁定的分组中。",
-        "file": "guides/zh-Hans/create-groups.md"
+      "en": {
+        "title": "Create a group",
+        "subtitle": "Choose apps, categories, and websites.",
+        "file": "guides/en/create-groups.md"
+      },
+      "es": {
+        "title": "Crear un grupo",
+        "subtitle": "Elige apps, categorías y sitios web.",
+        "file": "guides/es/create-groups.md"
+      },
+      "fr": {
+        "title": "Créer un groupe",
+        "subtitle": "Sélectionnez des apps, des catégories et des sites web.",
+        "file": "guides/fr/create-groups.md"
+      },
+      "hi": {
+        "title": "समूह बनाएँ",
+        "subtitle": "ऐप्स, श्रेणियाँ और वेबसाइटें चुनें।",
+        "file": "guides/hi/create-groups.md"
       },
       "ja": {
         "title": "グループを作成",
-        "subtitle": "アプリ、カテゴリ、Webサイトをロック可能なグループにまとめます。",
+        "subtitle": "アプリ、カテゴリ、Webサイトを選択します。",
         "file": "guides/ja/create-groups.md"
       },
       "ko": {
         "title": "그룹 만들기",
-        "subtitle": "앱, 카테고리, 웹사이트를 하나의 잠금 가능한 그룹으로 정리합니다.",
+        "subtitle": "앱, 카테고리 및 웹사이트를 선택합니다.",
         "file": "guides/ko/create-groups.md"
       },
-      "hi": {
-        "title": "समूह बनाएं",
-        "subtitle": "ऐप्स, श्रेणियों और वेबसाइटों को एक लॉक होने वाले समूह में रखें।",
-        "file": "guides/hi/create-groups.md"
+      "pt-BR": {
+        "title": "Criar um grupo",
+        "subtitle": "Escolha apps, categorias e sites.",
+        "file": "guides/pt-BR/create-groups.md"
       },
-      "ar": {
-        "title": "إنشاء مجموعات",
-        "subtitle": "نظّم التطبيقات والفئات والمواقع في مجموعة واحدة قابلة للقفل.",
-        "file": "guides/ar/create-groups.md"
+      "ru": {
+        "title": "Создать группу",
+        "subtitle": "Выберите приложения, категории и сайты.",
+        "file": "guides/ru/create-groups.md"
+      },
+      "zh-Hans": {
+        "title": "创建分组",
+        "subtitle": "选择 App、类别和网站。",
+        "file": "guides/zh-Hans/create-groups.md"
       }
     }
   },
   {
     "id": "block-apps",
     "localizations": {
+      "ar": {
+        "title": "قفل التطبيقات",
+        "subtitle": "اقفل مجموعة أو عنصرًا واحدًا.",
+        "file": "guides/ar/block-apps.md"
+      },
+      "de": {
+        "title": "Apps sperren",
+        "subtitle": "Sperre eine Gruppe oder ein einzelnes Element.",
+        "file": "guides/de/block-apps.md"
+      },
       "en": {
         "title": "Block apps",
-        "subtitle": "Turn a group on when you want its selected apps blocked.",
+        "subtitle": "Lock a group or a single item.",
         "file": "guides/en/block-apps.md"
-      },
-      "ru": {
-        "title": "Блокировать приложения",
-        "subtitle": "Включайте группу, когда нужно заблокировать выбранные приложения.",
-        "file": "guides/ru/block-apps.md"
       },
       "es": {
         "title": "Bloquear apps",
-        "subtitle": "Activa un grupo cuando quieras bloquear sus apps seleccionadas.",
+        "subtitle": "Bloquea un grupo o un elemento.",
         "file": "guides/es/block-apps.md"
       },
-      "pt-BR": {
-        "title": "Bloquear apps",
-        "subtitle": "Ative um grupo quando quiser bloquear os apps selecionados nele.",
-        "file": "guides/pt-BR/block-apps.md"
-      },
       "fr": {
-        "title": "Bloquer des apps",
-        "subtitle": "Activez un groupe quand vous voulez bloquer ses apps sélectionnées.",
+        "title": "Verrouiller des apps",
+        "subtitle": "Verrouillez un groupe ou un seul élément.",
         "file": "guides/fr/block-apps.md"
       },
-      "de": {
-        "title": "Apps blockieren",
-        "subtitle": "Aktiviere eine Gruppe, wenn ihre ausgewählten Apps blockiert werden sollen.",
-        "file": "guides/de/block-apps.md"
-      },
-      "zh-Hans": {
-        "title": "阻止应用",
-        "subtitle": "需要阻止所选应用时，打开对应分组即可。",
-        "file": "guides/zh-Hans/block-apps.md"
+      "hi": {
+        "title": "ऐप्स लॉक करें",
+        "subtitle": "पूरा समूह या कोई एक आइटम लॉक करें।",
+        "file": "guides/hi/block-apps.md"
       },
       "ja": {
-        "title": "アプリをブロック",
-        "subtitle": "選択したアプリをブロックしたいときにグループをオンにします。",
+        "title": "アプリをロック",
+        "subtitle": "グループ全体または個別の項目をロックします。",
         "file": "guides/ja/block-apps.md"
       },
       "ko": {
-        "title": "앱 차단",
-        "subtitle": "선택한 앱을 차단하려면 그룹을 켭니다.",
+        "title": "앱 잠그기",
+        "subtitle": "그룹 전체 또는 항목 하나를 잠급니다.",
         "file": "guides/ko/block-apps.md"
       },
-      "hi": {
-        "title": "ऐप्स ब्लॉक करें",
-        "subtitle": "जब चुने हुए ऐप्स ब्लॉक करने हों, तो समूह चालू करें।",
-        "file": "guides/hi/block-apps.md"
+      "pt-BR": {
+        "title": "Bloquear apps",
+        "subtitle": "Bloqueie um grupo ou um item.",
+        "file": "guides/pt-BR/block-apps.md"
       },
-      "ar": {
-        "title": "حظر التطبيقات",
-        "subtitle": "فعّل مجموعة عندما تريد حظر التطبيقات المحددة فيها.",
-        "file": "guides/ar/block-apps.md"
+      "ru": {
+        "title": "Заблокировать приложения",
+        "subtitle": "Ограничьте доступ к группе или отдельному элементу.",
+        "file": "guides/ru/block-apps.md"
+      },
+      "zh-Hans": {
+        "title": "锁定 App",
+        "subtitle": "锁定整个分组或单个项目。",
+        "file": "guides/zh-Hans/block-apps.md"
       }
     }
   },
   {
     "id": "blocking-modes",
     "localizations": {
-      "en": {
-        "title": "Blocking modes and Pause",
-        "subtitle": "Manual protection, schedules, daily limits, location and temporary access.",
-        "file": "guides/en/blocking-modes.md"
-      },
-      "ru": {
-        "title": "Режимы блокировки и пауза",
-        "subtitle": "Ручная блокировка, расписания, дневной лимит, геолокация и временный доступ.",
-        "file": "guides/ru/blocking-modes.md"
-      },
-      "es": {
-        "title": "Modos de bloqueo y Pausa",
-        "subtitle": "Bloqueo manual, horarios, límites diarios, ubicación y acceso temporal.",
-        "file": "guides/es/blocking-modes.md"
-      },
-      "pt-BR": {
-        "title": "Modos de bloqueio e Pausa",
-        "subtitle": "Bloqueio manual, horários, limites diários, localização e acesso temporário.",
-        "file": "guides/pt-BR/blocking-modes.md"
-      },
-      "fr": {
-        "title": "Modes de blocage et Pause",
-        "subtitle": "Blocage manuel, horaires, limites quotidiennes, position et accès temporaire.",
-        "file": "guides/fr/blocking-modes.md"
+      "ar": {
+        "title": "طرق القفل",
+        "subtitle": "اختر متى وأين يُمنع الوصول.",
+        "file": "guides/ar/blocking-modes.md"
       },
       "de": {
-        "title": "Sperrmodi und Pause",
-        "subtitle": "Manuelle Sperren, Zeitpläne, Tageslimits, Standort und vorübergehender Zugriff.",
+        "title": "Sperrmodi",
+        "subtitle": "Lege fest, wann und wo der Zugriff gesperrt wird.",
         "file": "guides/de/blocking-modes.md"
       },
-      "zh-Hans": {
-        "title": "限制模式与 暂停",
-        "subtitle": "了解手动锁定、时间表、每日限额、位置和临时访问。",
-        "file": "guides/zh-Hans/blocking-modes.md"
+      "en": {
+        "title": "Blocking modes",
+        "subtitle": "Choose when and where to block access.",
+        "file": "guides/en/blocking-modes.md"
+      },
+      "es": {
+        "title": "Modos de bloqueo",
+        "subtitle": "Elige cuándo y dónde bloquear el acceso.",
+        "file": "guides/es/blocking-modes.md"
+      },
+      "fr": {
+        "title": "Modes de verrouillage",
+        "subtitle": "Choisissez quand et où bloquer l’accès.",
+        "file": "guides/fr/blocking-modes.md"
+      },
+      "hi": {
+        "title": "लॉक करने के तरीके",
+        "subtitle": "तय करें कि कब और कहाँ लॉक करना है।",
+        "file": "guides/hi/blocking-modes.md"
       },
       "ja": {
-        "title": "ブロックの種類と一時停止",
-        "subtitle": "手動ブロック・スケジュール・1日の上限・位置・一時許可の使い方。",
+        "title": "ロックの方法",
+        "subtitle": "ロックする時間や場所を設定します。",
         "file": "guides/ja/blocking-modes.md"
       },
       "ko": {
-        "title": "차단 모드와 일시 정지",
-        "subtitle": "수동 차단, 일정, 하루 한도, 위치와 임시 접근을 알아보세요.",
+        "title": "잠금 방식",
+        "subtitle": "잠금을 적용할 시간과 장소를 선택합니다.",
         "file": "guides/ko/blocking-modes.md"
       },
-      "hi": {
-        "title": "ब्लॉक करने के तरीके और विराम",
-        "subtitle": "मैनुअल ब्लॉक, शेड्यूल, दैनिक सीमा, स्थान और अस्थायी पहुँच को समझें।",
-        "file": "guides/hi/blocking-modes.md"
+      "pt-BR": {
+        "title": "Modos de bloqueio",
+        "subtitle": "Escolha quando e onde bloquear o acesso.",
+        "file": "guides/pt-BR/blocking-modes.md"
       },
-      "ar": {
-        "title": "أوضاع الحظر وإيقاف مؤقت",
-        "subtitle": "تعرّف على الحظر اليدوي والجداول والحدود اليومية والموقع والوصول المؤقت.",
-        "file": "guides/ar/blocking-modes.md"
+      "ru": {
+        "title": "Режимы блокировки",
+        "subtitle": "Выберите, когда и где ограничивать доступ.",
+        "file": "guides/ru/blocking-modes.md"
+      },
+      "zh-Hans": {
+        "title": "锁定方式",
+        "subtitle": "选择锁定的时间和地点。",
+        "file": "guides/zh-Hans/blocking-modes.md"
       }
     }
   },
   {
     "id": "schedules",
     "localizations": {
-      "en": {
-        "title": "Create schedules",
-        "subtitle": "Lock apps automatically by time and day.",
-        "file": "guides/en/schedules.md"
-      },
-      "ru": {
-        "title": "Создать расписания",
-        "subtitle": "Блокируйте приложения автоматически по времени и дням.",
-        "file": "guides/ru/schedules.md"
-      },
-      "es": {
-        "title": "Crear horarios",
-        "subtitle": "Bloquea apps automáticamente por hora y día.",
-        "file": "guides/es/schedules.md"
-      },
-      "pt-BR": {
-        "title": "Criar agendas",
-        "subtitle": "Bloqueie apps automaticamente por horário e dia.",
-        "file": "guides/pt-BR/schedules.md"
-      },
-      "fr": {
-        "title": "Créer des horaires",
-        "subtitle": "Bloquez les apps automatiquement selon l’heure et le jour.",
-        "file": "guides/fr/schedules.md"
+      "ar": {
+        "title": "تعيين جدول",
+        "subtitle": "اقفل بحسب الوقت أو الاستخدام اليومي.",
+        "file": "guides/ar/schedules.md"
       },
       "de": {
-        "title": "Zeitpläne erstellen",
-        "subtitle": "Blockiere Apps automatisch nach Uhrzeit und Tag.",
+        "title": "Zeitplan festlegen",
+        "subtitle": "Sperre nach Uhrzeit oder täglicher Nutzung.",
         "file": "guides/de/schedules.md"
       },
-      "zh-Hans": {
-        "title": "创建时间表",
-        "subtitle": "按时间和日期自动阻止应用。",
-        "file": "guides/zh-Hans/schedules.md"
+      "en": {
+        "title": "Set a schedule",
+        "subtitle": "Block at set times or after daily use.",
+        "file": "guides/en/schedules.md"
+      },
+      "es": {
+        "title": "Establecer un horario",
+        "subtitle": "Bloquea por horas o por uso diario.",
+        "file": "guides/es/schedules.md"
+      },
+      "fr": {
+        "title": "Définir un horaire",
+        "subtitle": "Bloquez l’accès selon l’heure ou l’utilisation.",
+        "file": "guides/fr/schedules.md"
+      },
+      "hi": {
+        "title": "शेड्यूल सेट करें",
+        "subtitle": "समय या दैनिक उपयोग के आधार पर लॉक करें।",
+        "file": "guides/hi/schedules.md"
       },
       "ja": {
-        "title": "スケジュールを作成",
-        "subtitle": "時間と曜日に合わせてアプリを自動的にブロックします。",
+        "title": "スケジュールを設定",
+        "subtitle": "時間帯や1日の使用時間に応じてロックします。",
         "file": "guides/ja/schedules.md"
       },
       "ko": {
-        "title": "일정 만들기",
-        "subtitle": "시간과 요일에 따라 앱을 자동으로 차단합니다.",
+        "title": "일정 설정",
+        "subtitle": "시간대 또는 일일 사용량에 따라 잠급니다.",
         "file": "guides/ko/schedules.md"
       },
-      "hi": {
-        "title": "शेड्यूल बनाएं",
-        "subtitle": "समय और दिन के आधार पर ऐप्स अपने आप ब्लॉक करें।",
-        "file": "guides/hi/schedules.md"
+      "pt-BR": {
+        "title": "Definir um horário",
+        "subtitle": "Bloqueie por horário ou tempo de uso.",
+        "file": "guides/pt-BR/schedules.md"
       },
-      "ar": {
-        "title": "إنشاء الجداول",
-        "subtitle": "اقفل التطبيقات تلقائيًا حسب الوقت واليوم.",
-        "file": "guides/ar/schedules.md"
+      "ru": {
+        "title": "Настроить расписание",
+        "subtitle": "Блокируйте по времени или по дневному лимиту.",
+        "file": "guides/ru/schedules.md"
+      },
+      "zh-Hans": {
+        "title": "设置计划",
+        "subtitle": "按时段或每日使用时长锁定。",
+        "file": "guides/zh-Hans/schedules.md"
       }
     }
   },
   {
     "id": "edit-groups",
     "localizations": {
-      "en": {
-        "title": "Rename groups and change icons",
-        "subtitle": "Keep groups easy to recognize.",
-        "file": "guides/en/edit-groups.md"
-      },
-      "ru": {
-        "title": "Переименовать группы и сменить иконки",
-        "subtitle": "Сделайте группы понятнее на Home.",
-        "file": "guides/ru/edit-groups.md"
-      },
-      "es": {
-        "title": "Renombrar grupos y cambiar iconos",
-        "subtitle": "Haz que tus grupos sean fáciles de reconocer.",
-        "file": "guides/es/edit-groups.md"
-      },
-      "pt-BR": {
-        "title": "Renomear grupos e alterar ícones",
-        "subtitle": "Deixe os grupos fáceis de reconhecer.",
-        "file": "guides/pt-BR/edit-groups.md"
-      },
-      "fr": {
-        "title": "Renommer les groupes et changer les icônes",
-        "subtitle": "Gardez vos groupes faciles à reconnaître.",
-        "file": "guides/fr/edit-groups.md"
+      "ar": {
+        "title": "تعديل المجموعة",
+        "subtitle": "غيّر الاسم أو الأيقونة.",
+        "file": "guides/ar/edit-groups.md"
       },
       "de": {
-        "title": "Gruppen umbenennen und Symbole ändern",
-        "subtitle": "Halte Gruppen leicht erkennbar.",
+        "title": "Gruppe bearbeiten",
+        "subtitle": "Ändere den Namen oder das Symbol.",
         "file": "guides/de/edit-groups.md"
       },
-      "zh-Hans": {
-        "title": "重命名分组并更改图标",
-        "subtitle": "让分组更容易识别。",
-        "file": "guides/zh-Hans/edit-groups.md"
+      "en": {
+        "title": "Edit a group",
+        "subtitle": "Change its name or icon.",
+        "file": "guides/en/edit-groups.md"
+      },
+      "es": {
+        "title": "Editar un grupo",
+        "subtitle": "Cambia el nombre o el icono.",
+        "file": "guides/es/edit-groups.md"
+      },
+      "fr": {
+        "title": "Modifier un groupe",
+        "subtitle": "Changez son nom ou son icône.",
+        "file": "guides/fr/edit-groups.md"
+      },
+      "hi": {
+        "title": "समूह बदलें",
+        "subtitle": "समूह का नाम या आइकन बदलें।",
+        "file": "guides/hi/edit-groups.md"
       },
       "ja": {
-        "title": "グループ名とアイコンを変更",
-        "subtitle": "グループを見分けやすくします。",
+        "title": "グループを編集",
+        "subtitle": "グループ名やアイコンを変更します。",
         "file": "guides/ja/edit-groups.md"
       },
       "ko": {
-        "title": "그룹 이름 및 아이콘 변경",
-        "subtitle": "그룹을 쉽게 알아볼 수 있게 유지합니다.",
+        "title": "그룹 편집",
+        "subtitle": "그룹 이름이나 아이콘을 변경합니다.",
         "file": "guides/ko/edit-groups.md"
       },
-      "hi": {
-        "title": "समूह का नाम और आइकन बदलें",
-        "subtitle": "समूहों को आसानी से पहचानने योग्य रखें।",
-        "file": "guides/hi/edit-groups.md"
+      "pt-BR": {
+        "title": "Editar um grupo",
+        "subtitle": "Altere o nome ou o ícone.",
+        "file": "guides/pt-BR/edit-groups.md"
       },
-      "ar": {
-        "title": "إعادة تسمية المجموعات وتغيير الأيقونات",
-        "subtitle": "اجعل المجموعات سهلة التعرّف.",
-        "file": "guides/ar/edit-groups.md"
+      "ru": {
+        "title": "Изменить группу",
+        "subtitle": "Поменяйте название или значок.",
+        "file": "guides/ru/edit-groups.md"
+      },
+      "zh-Hans": {
+        "title": "编辑分组",
+        "subtitle": "更改分组名称或图标。",
+        "file": "guides/zh-Hans/edit-groups.md"
       }
     }
   },
   {
     "id": "app-passcode",
     "localizations": {
-      "en": {
-        "title": "Set app passcode",
-        "subtitle": "Protect App Lock with a 4-digit code and biometrics.",
-        "file": "guides/en/app-passcode.md"
-      },
-      "ru": {
-        "title": "Установить пароль для приложения",
-        "subtitle": "Защитите App Lock кодом из 4 цифр и биометрией.",
-        "file": "guides/ru/app-passcode.md"
-      },
-      "es": {
-        "title": "Configurar código de la app",
-        "subtitle": "Protege App Lock con un código de 4 dígitos y biometría.",
-        "file": "guides/es/app-passcode.md"
-      },
-      "pt-BR": {
-        "title": "Definir código do app",
-        "subtitle": "Proteja o App Lock com um código de 4 dígitos e biometria.",
-        "file": "guides/pt-BR/app-passcode.md"
-      },
-      "fr": {
-        "title": "Définir un code pour l’app",
-        "subtitle": "Protégez App Lock avec un code à 4 chiffres et la biométrie.",
-        "file": "guides/fr/app-passcode.md"
+      "ar": {
+        "title": "تعيين رمز الدخول",
+        "subtitle": "احمِ الوصول إلى App Lock.",
+        "file": "guides/ar/app-passcode.md"
       },
       "de": {
-        "title": "App-Passcode einrichten",
-        "subtitle": "Schütze App Lock mit einem 4-stelligen Code und Biometrie.",
+        "title": "Code festlegen",
+        "subtitle": "Schütze den Zugriff auf App Lock.",
         "file": "guides/de/app-passcode.md"
       },
-      "zh-Hans": {
-        "title": "设置应用密码",
-        "subtitle": "使用 4 位代码和生物识别保护 App Lock。",
-        "file": "guides/zh-Hans/app-passcode.md"
+      "en": {
+        "title": "Set a passcode",
+        "subtitle": "Protect access to App Lock.",
+        "file": "guides/en/app-passcode.md"
+      },
+      "es": {
+        "title": "Establecer un código",
+        "subtitle": "Protege el acceso a App Lock.",
+        "file": "guides/es/app-passcode.md"
+      },
+      "fr": {
+        "title": "Définir un code d’accès",
+        "subtitle": "Protégez l’accès à App Lock.",
+        "file": "guides/fr/app-passcode.md"
+      },
+      "hi": {
+        "title": "पासकोड सेट करें",
+        "subtitle": "App Lock का ऐक्सेस सुरक्षित करें।",
+        "file": "guides/hi/app-passcode.md"
       },
       "ja": {
-        "title": "アプリのパスコードを設定",
-        "subtitle": "4桁のコードと生体認証でApp Lockを保護します。",
+        "title": "パスコードを設定",
+        "subtitle": "App Lockを開くときに認証を求めます。",
         "file": "guides/ja/app-passcode.md"
       },
       "ko": {
-        "title": "앱 암호 설정",
-        "subtitle": "4자리 코드와 생체 인식으로 App Lock을 보호합니다.",
+        "title": "암호 설정",
+        "subtitle": "App Lock을 열 때 인증을 요청합니다.",
         "file": "guides/ko/app-passcode.md"
       },
-      "hi": {
-        "title": "ऐप पासकोड सेट करें",
-        "subtitle": "App Lock को 4-अंकों के कोड और बायोमेट्रिक्स से सुरक्षित करें।",
-        "file": "guides/hi/app-passcode.md"
+      "pt-BR": {
+        "title": "Definir um código de acesso",
+        "subtitle": "Proteja o acesso ao App Lock.",
+        "file": "guides/pt-BR/app-passcode.md"
       },
-      "ar": {
-        "title": "تعيين رمز مرور للتطبيق",
-        "subtitle": "احمِ App Lock برمز مكوّن من 4 أرقام وبالمصادقة الحيوية.",
-        "file": "guides/ar/app-passcode.md"
+      "ru": {
+        "title": "Установить код-пароль",
+        "subtitle": "Защитите вход в App Lock.",
+        "file": "guides/ru/app-passcode.md"
+      },
+      "zh-Hans": {
+        "title": "设置密码",
+        "subtitle": "保护对 App Lock 的访问。",
+        "file": "guides/zh-Hans/app-passcode.md"
       }
     }
   }

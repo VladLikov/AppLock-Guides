@@ -1,10 +1,17 @@
-Zeitpläne können eine Gruppe oder einzelne Elemente automatisch sperren. Zum Speichern sind Bildschirmzeit-Zugriff und Premium erforderlich.
+## Zeitplan einschalten
+1. Tippe bei einer Gruppe oder einem Element auf **VERWALTEN** und dann auf **Zeitplan festlegen**.
+2. Aktiviere **Zeitplan verwenden**.
 
-1. Öffne eine Gruppe und tippe auf **MANAGE**, oder öffne **MANAGE** für ein einzelnes Element.
-2. Wähle **Set Schedule** und aktiviere **Use Schedule**.
-3. Wähle **Period**, um zwischen einer Start- und Endzeit zu sperren. Passe Zeiten und Wochentage an. **Scenarios** übernimmt eine vorgefertigte Routine, die du bearbeiten kannst.
-4. Oder wähle **Daily Limit**, um nach einer täglichen Nutzungsdauer zu sperren. Jede App hat ein eigenes Limit; ausgewählte Kategorien und Websites teilen sich ein separates Limit.
-5. Aktiviere bei Bedarf eine Erinnerung und erlaube Mitteilungen, wenn du gefragt wirst.
-6. Speichere mit dem **Häkchen oben rechts**.
+Zum Sichern sind Zugriff auf die Bildschirmzeit und App Lock PRO erforderlich.
 
-Zum Entfernen deaktiviere **Use Schedule** und speichere mit dem Häkchen. Eine separate manuelle Sperre oder Standortregel bleibt bestehen.
+## Typ wählen
+- **Zeitraum**. Lege Startzeit, Endzeit und Tage fest.
+- **Limit**. Lege die tägliche Nutzungszeit und die Tage fest.
+
+Unter **Szenarien** findest du Vorlagen für Uhrzeiten und Tage. Liegt die Endzeit vor der Startzeit, reicht der Zeitraum bis zum nächsten Tag.
+
+## Sichern oder ausschalten
+- Tippe zum Sichern auf das Häkchen.
+- Zum Ausschalten öffne **Zeitplan bearbeiten**, deaktiviere **Zeitplan verwenden** und tippe auf das Häkchen.
+
+Für Hinweise vorab aktiviere die Erinnerung und erlaube Mitteilungen.

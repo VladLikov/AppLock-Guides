@@ -1,19 +1,14 @@
-Nachdem eine Gruppe erstellt wurde, kannst du alles darin über Home oder die Detailansicht sperren.
+## Gruppe sperren
+1. Tippe neben oder in der Gruppe auf **VERWALTEN**.
 
 ![Gruppenzeile in Home](assets/crops/de/group-row.png)
 
-1. Tippe in der Navigationsleiste auf **MANAGE**.
-2. Tippe auf **Lock All**.
-3. App Lock wendet die Sperre sofort auf die ausgewählten Apps, Kategorien und Websites an.
+2. Tippe auf **Gruppe sperren**.
 
-![Aktion Lock All](assets/crops/de/lock-all-action.png)
+Zum Entsperren tippe im selben Menü auf **Gruppe entsperren**.
 
-Du kannst auch ein einzelnes Element in der Gruppe sperren:
-
+## Einzelnes Element sperren
 1. Öffne die Gruppe.
-2. Tippe neben der App, Kategorie oder Website auf **MANAGE**.
-3. Tippe auf die Sperraktion für dieses Element.
+2. Tippe neben der App auf **VERWALTEN** und dann auf **App sperren**.
 
-![Menü für ein Element](assets/crops/de/item-lock-action.png)
-
-Zum späteren Entsperren öffnest du wieder **MANAGE** und wählst die Entsperraktion.
+Für Kategorien und Websites gibt es eigene Sperraktionen.

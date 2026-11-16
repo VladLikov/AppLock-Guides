@@ -1,10 +1,17 @@
-Les horaires peuvent bloquer automatiquement un groupe ou des éléments individuels. Leur enregistrement nécessite l’accès à Temps d’écran et Premium.
+## Activer un horaire
+1. Touchez **GÉRER** pour un groupe ou un élément, puis **Définir un horaire**.
+2. Activez **Utiliser le planning**.
 
-1. Ouvrez un groupe et touchez **MANAGE**, ou ouvrez **MANAGE** pour un élément individuel.
-2. Choisissez **Set Schedule** et activez **Use Schedule**.
-3. Choisissez **Period** pour bloquer entre une heure de début et de fin. Réglez les heures et les jours. **Scenarios** applique une routine prédéfinie que vous pouvez modifier.
-4. Ou choisissez **Daily Limit** pour bloquer après une durée quotidienne d’utilisation. Chaque app a sa propre limite ; les catégories et sites sélectionnés partagent une autre limite.
-5. Activez éventuellement un rappel et autorisez les notifications à la demande.
-6. Enregistrez avec la **coche en haut à droite**.
+Pour enregistrer un horaire, vous devez autoriser Temps d’écran et disposer de App Lock PRO.
 
-Pour supprimer l’horaire, désactivez **Use Schedule** et enregistrez avec la coche. Cela ne supprime pas un blocage manuel ou une règle de localisation distincts.
+## Choisir un type
+- **Période**. Choisissez les heures de début et de fin, puis les jours.
+- **Limite**. Réglez la durée d’utilisation quotidienne et choisissez les jours.
+
+**Scénarios** propose des heures et des jours prédéfinis. Si l’heure de fin précède l’heure de début, la période se termine le lendemain.
+
+## Enregistrer ou désactiver
+- Touchez la coche pour enregistrer.
+- Pour désactiver l’horaire, ouvrez **Modifier le programme**, désactivez **Utiliser le planning** et touchez la coche.
+
+Pour recevoir une alerte à l’avance, activez le rappel et autorisez les notifications.

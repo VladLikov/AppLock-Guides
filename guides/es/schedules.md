@@ -1,10 +1,17 @@
-Los horarios pueden bloquear automáticamente un grupo o elementos individuales. Para guardarlos necesitas acceso a Tiempo de uso y Premium.
+## Activar el horario
+1. En **GESTIONAR** de un grupo o elemento, toca **Establecer horario**.
+2. Activa **Usar horario**.
 
-1. Abre un grupo y toca **MANAGE**, o abre **MANAGE** para un elemento individual.
-2. Elige **Set Schedule** y activa **Use Schedule**.
-3. Elige **Period** para bloquear entre una hora de inicio y una de fin. Ajusta las horas y los días de la semana. **Scenarios** aplica una rutina predefinida que puedes editar.
-4. También puedes elegir **Daily Limit** para bloquear al alcanzar el tiempo de uso diario. Cada app tiene su propio límite; las categorías y los sitios seleccionados comparten otro límite.
-5. Si quieres, activa un recordatorio y permite las notificaciones cuando se solicite.
-6. Guarda con la **marca de verificación de la esquina superior derecha**.
+Para guardar un horario necesitas acceso a Tiempo de uso y App Lock PRO.
 
-Para eliminar el horario, desactiva **Use Schedule** y guarda con la marca de verificación. Esto no elimina un bloqueo manual ni una regla de ubicación independientes.
+## Elegir un tipo
+- **Período**. Elige las horas de inicio y fin y los días.
+- **Límite**. Elige el tiempo de uso diario y los días.
+
+**Escenarios** incluye horas y días predefinidos. Si la hora de fin es anterior a la de inicio, el período continúa hasta el día siguiente.
+
+## Guardar o desactivar
+- Toca la marca de verificación para guardar.
+- Para desactivarlo, abre **Editar horario**, desactiva **Usar horario** y toca la marca de verificación.
+
+Para recibir avisos previos, activa el recordatorio y permite las notificaciones.

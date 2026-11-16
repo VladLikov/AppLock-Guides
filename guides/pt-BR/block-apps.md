@@ -1,19 +1,14 @@
-Depois que um grupo é criado, você pode bloquear tudo nele a partir de Home ou da tela de detalhes.
+## Bloquear um grupo
+1. Toque em **GERENCIAR** ao lado do grupo ou dentro dele.
 
 ![Linha do grupo em Home](assets/crops/pt-BR/group-row.png)
 
-1. Toque em **MANAGE** na barra de navegação.
-2. Toque em **Lock All**.
-3. O App Lock aplica imediatamente o bloqueio aos apps, categorias e sites selecionados.
+2. Toque em **Bloquear grupo**.
 
-![Ação Lock All](assets/crops/pt-BR/lock-all-action.png)
+Para liberar o acesso, toque em **Desbloquear grupo** no mesmo menu.
 
-Você também pode bloquear um único item dentro do grupo:
-
+## Bloquear um item
 1. Abra o grupo.
-2. Toque em **MANAGE** ao lado do app, categoria ou site.
-3. Toque na ação de bloqueio desse item.
+2. Toque em **GERENCIAR** ao lado do app e em **Bloquear aplicativo**.
 
-![Menu de um item](assets/crops/pt-BR/item-lock-action.png)
-
-Para desbloquear depois, abra **MANAGE** novamente e escolha a ação de desbloqueio.
+Categorias e sites têm opções próprias de bloqueio.

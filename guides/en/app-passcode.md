@@ -1,23 +1,16 @@
-Use Authentication in Privacy when you want App Lock itself to ask for a code before opening.
-
-![Privacy row in Settings](assets/crops/en/settings-privacy-row.png)
-
-1. Open App Lock.
-2. Open **Settings**.
-3. In the **App** section, tap **Privacy**.
+## Turn on authentication
+1. In App Lock, open **Settings**, then **Authentication**.
+2. Turn on **Authentication**.
 
 ![Authentication switch](assets/crops/en/privacy-authentication-switch.png)
 
-4. Turn on **Authentication**.
-5. Enter a new 4-digit code on the **Create Passcode** screen.
+## Choose a passcode
+1. Enter a passcode.
 
 ![Create Passcode screen](assets/crops/en/create-passcode-screen.png)
 
-6. Re-enter the same code on the **Repeat Passcode** screen.
+2. Enter it again to confirm.
 
 ![Repeat Passcode screen](assets/crops/en/repeat-passcode-screen.png)
 
-Tips:
-
-1. Keep biometrics enabled if you want faster unlocks.
-2. Return to **Privacy** later to change the passcode or turn authentication off.
+In **Authentication**, you can change your passcode or turn on Face ID or Touch ID when available.

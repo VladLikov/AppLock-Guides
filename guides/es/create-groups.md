@@ -1,17 +1,13 @@
-Los grupos mantienen juntas apps, categorías y sitios web. Puedes bloquear un grupo manualmente o con un horario.
+## Crear un grupo
+1. Toca **Crear grupo** en la pantalla de inicio.
 
 ![Botón Create Group](assets/crops/es/create-group-button.png)
 
-1. Abre App Lock.
-2. Toca **Create Group** en la parte superior de Home.
-3. Si iOS pide permiso de Screen Time, permítelo. App Lock solo lo usa para bloquear lo que elijas.
-4. Selecciona las apps, categorías o sitios web que quieres incluir.
-5. Toca la marca azul para guardar el grupo.
+2. Permite el acceso a Tiempo de uso si se solicita.
+3. Selecciona apps, categorías o sitios web.
 
 ![Selector de apps y categorías](assets/crops/es/apps-picker-selection.png)
 
-Consejos:
+4. Toca la marca de verificación para guardar.
 
-1. Usa categorías para bloquear un tipo completo de apps a la vez.
-2. Usa la búsqueda cuando la lista sea larga.
-3. Puedes editar las apps seleccionadas después desde los detalles del grupo.
+Para cambiar la selección, abre el grupo y toca **Seleccionar apps y sitios web**.

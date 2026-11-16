@@ -1,10 +1,17 @@
-Schedules can block a group or individual selected items automatically. Screen Time access and Premium are required to save a schedule.
+## Start a schedule
+1. Tap **MANAGE** for a group or item, then **Set Schedule**.
+2. Turn on **Use Schedule**.
 
-1. Open a group and tap **MANAGE**, or open **MANAGE** for an individual item.
-2. Choose **Set Schedule** and turn on **Use Schedule**.
-3. Choose **Period** to block access between a start and end time. Adjust the times and select the weekdays. **Scenarios** fills in a ready-made routine that you can then edit.
-4. Choose **Daily Limit** instead to allow a daily amount of use before blocking. The limit applies separately to each app; selected categories and websites share a separate limit.
-5. Optionally enable a reminder. Allow notifications when asked if you want reminders.
-6. Tap the **checkmark in the top-right corner** to save.
+Saving a schedule requires Screen Time access and App Lock PRO.
 
-To remove the schedule, reopen this editor, turn off **Use Schedule**, and save with the checkmark. Removing a schedule does not remove a separate manual lock or location rule.
+## Choose a type
+- **Period**. Set the start and end times and choose the days.
+- **Limit**. Set the daily usage allowance and choose the days.
+
+Use **Scenarios** to start with preset hours and days. A period ending before it starts runs into the next day.
+
+## Save or turn off
+- Tap the checkmark to save.
+- To turn off a schedule, open **Edit Schedule**, turn off **Use Schedule**, and tap the checkmark.
+
+For advance alerts, turn on **Use Reminder** and allow notifications.
